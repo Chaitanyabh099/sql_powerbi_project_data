@@ -1,0 +1,2001 @@
+DepartmentID,DepartmentName,City,State,Country,Budget,ManagerID
+IT-CY-75086,IT and Technology,Lucknow,Uttar Pradesh,India,329748,man-589359
+MA-IT-67820,Management,Nagpur,Maharashtra,India,314050,man-285274
+MA-OP-92671,Management,Bhopal,Madhya Pradesh,India,426489,man-362561
+IT-DA-41799,IT and Technology,Noida,Uttar Pradesh,India,146011,man-116776
+MA-OP-52890,Management,Mumbai,Maharashtra,India,133834,man-647845
+MA-GE-72098,Management,Coimbatore,Tamil Nadu,India,312241,man-623232
+IT-CL-52884,IT and Technology,Kochi,Kerala,India,212407,man-633590
+MA-HU-12783,Management,Kochi,Kerala,India,119895,man-169247
+IT-IT-56927,IT and Technology,Nagpur,Maharashtra,India,393706,man-877733
+IT-IT-79987,IT and Technology,Chennai,Tamil Nadu,India,360000,man-106256
+MA-CU-18076,Management,Chennai,Tamil Nadu,India,175310,man-858821
+MA-GE-14201,Management,Nagpur,Maharashtra,India,213940,man-327063
+MA-PR-86912,Management,Mumbai,Maharashtra,India,123393,man-436684
+MA-HU-18552,Management,Coimbatore,Tamil Nadu,India,162985,man-888121
+IT-FR-57407,IT and Technology,Mumbai,Maharashtra,India,105468,man-402663
+MA-GE-64645,Management,Kolkata,West Bengal,India,199660,man-298327
+IT-FR-77459,IT and Technology,Vadodara,Gujarat,India,468449,man-327616
+IT-NE-81106,IT and Technology,Lucknow,Uttar Pradesh,India,149164,man-311516
+IT-SY-58707,IT and Technology,Kolkata,West Bengal,India,142490,man-298718
+IT-CY-72507,IT and Technology,Jaipur,Rajasthan,India,349888,man-206102
+MA-FI-81225,Management,Jaipur,Rajasthan,India,109003,man-444428
+IT-DA-13777,IT and Technology,Visakhapatnam,Andhra Pradesh,India,467071,man-800885
+MA-IT-54514,Management,Gurgaon,Haryana,India,352729,man-311453
+MA-FI-79261,Management,Hyderabad,Telangana,India,206902,man-851128
+IT-DA-24956,IT and Technology,Hyderabad,Telangana,India,233779,man-969849
+MA-IT-84514,Management,Chandigarh,Chandigarh,India,417716,man-714035
+MA-FI-70264,Management,Hyderabad,Telangana,India,222117,man-512184
+IT-DA-20261,IT and Technology,Chennai,Tamil Nadu,India,304440,man-883993
+IT-CL-57576,IT and Technology,Indore,Madhya Pradesh,India,117881,man-160540
+MA-FI-40928,Management,Vadodara,Gujarat,India,291953,man-768160
+IT-FR-85305,IT and Technology,Chennai,Tamil Nadu,India,125313,man-258000
+MA-MA-36476,Management,Mumbai,Maharashtra,India,446464,man-835127
+MA-HU-58806,Management,Delhi,Delhi,India,107529,man-154625
+MA-PR-23695,Management,Kochi,Kerala,India,224413,man-383811
+IT-SY-17393,IT and Technology,Chennai,Tamil Nadu,India,288170,man-381279
+MA-CU-52292,Management,Bhopal,Madhya Pradesh,India,172285,man-128460
+MA-IT-89003,Management,Mumbai,Maharashtra,India,450199,man-972493
+IT-DA-63127,IT and Technology,Lucknow,Uttar Pradesh,India,363391,man-122702
+MA-FI-41151,Management,Bhopal,Madhya Pradesh,India,492804,man-176939
+IT-DA-19843,IT and Technology,Kochi,Kerala,India,495464,man-123037
+MA-CU-92970,Management,Visakhapatnam,Andhra Pradesh,India,421918,man-550136
+IT-NE-58495,IT and Technology,Lucknow,Uttar Pradesh,India,252843,man-722003
+IT-CY-14411,IT and Technology,Bhopal,Madhya Pradesh,India,197115,man-780136
+IT-DA-42429,IT and Technology,Vadodara,Gujarat,India,209731,man-670113
+MA-OP-85448,Management,Indore,Madhya Pradesh,India,395915,man-424492
+MA-PR-55303,Management,Lucknow,Uttar Pradesh,India,129012,man-962444
+IT-FR-69769,IT and Technology,Gurgaon,Haryana,India,103180,man-336572
+IT-CL-76574,IT and Technology,Ahmedabad,Gujarat,India,486682,man-332977
+MA-PR-81008,Management,Visakhapatnam,Andhra Pradesh,India,163201,man-897696
+IT-CY-91134,IT and Technology,Gurgaon,Haryana,India,141638,man-307600
+MA-SA-76894,Management,Coimbatore,Tamil Nadu,India,263001,man-700864
+IT-CY-32761,IT and Technology,Kochi,Kerala,India,123157,man-958461
+IT-DE-86881,IT and Technology,Noida,Uttar Pradesh,India,182109,man-641269
+MA-PR-80592,Management,Jaipur,Rajasthan,India,324942,man-865433
+IT-SY-46553,IT and Technology,Chandigarh,Chandigarh,India,252060,man-864766
+IT-CY-11622,IT and Technology,Chennai,Tamil Nadu,India,378966,man-448612
+MA-MA-81986,Management,Pune,Maharashtra,India,292631,man-451350
+IT-CY-25084,IT and Technology,Chandigarh,Chandigarh,India,211682,man-480545
+MA-FI-15612,Management,Noida,Uttar Pradesh,India,346126,man-661323
+IT-CL-35515,IT and Technology,Hyderabad,Telangana,India,308158,man-514340
+IT-IT-40949,IT and Technology,Kochi,Kerala,India,293835,man-218960
+MA-GE-54689,Management,Gurgaon,Haryana,India,326298,man-790037
+IT-CY-27674,IT and Technology,Bhopal,Madhya Pradesh,India,179795,man-576318
+IT-NE-99494,IT and Technology,Bengaluru,Karnataka,India,261719,man-590733
+MA-PR-72912,Management,Chennai,Tamil Nadu,India,392762,man-509797
+IT-FR-44144,IT and Technology,Bengaluru,Karnataka,India,268964,man-842558
+IT-DA-19312,IT and Technology,Pune,Maharashtra,India,109724,man-516214
+IT-SY-66168,IT and Technology,Lucknow,Uttar Pradesh,India,174638,man-274948
+MA-OP-44661,Management,Bengaluru,Karnataka,India,155987,man-663697
+MA-MA-52128,Management,Kolkata,West Bengal,India,127236,man-729349
+IT-DE-30399,IT and Technology,Gurgaon,Haryana,India,463357,man-971985
+MA-FI-78717,Management,Mumbai,Maharashtra,India,387698,man-412633
+MA-PR-15745,Management,Visakhapatnam,Andhra Pradesh,India,126092,man-890497
+IT-SO-79129,IT and Technology,Ahmedabad,Gujarat,India,139309,man-257918
+MA-SA-14114,Management,Indore,Madhya Pradesh,India,209180,man-676912
+IT-NE-78504,IT and Technology,Bengaluru,Karnataka,India,322892,man-299278
+MA-OP-89343,Management,Nagpur,Maharashtra,India,484635,man-596909
+IT-DA-65199,IT and Technology,Lucknow,Uttar Pradesh,India,454193,man-685085
+MA-CU-61569,Management,Coimbatore,Tamil Nadu,India,271406,man-887184
+MA-GE-77979,Management,Delhi,Delhi,India,303656,man-887719
+IT-DE-59609,IT and Technology,Hyderabad,Telangana,India,466955,man-383195
+MA-MA-73867,Management,Pune,Maharashtra,India,484637,man-719341
+IT-NE-49868,IT and Technology,Coimbatore,Tamil Nadu,India,243882,man-380200
+MA-PR-89533,Management,Bengaluru,Karnataka,India,179234,man-415285
+MA-PR-10736,Management,Hyderabad,Telangana,India,209657,man-887651
+MA-SA-84837,Management,Delhi,Delhi,India,115038,man-721895
+IT-SY-26103,IT and Technology,Noida,Uttar Pradesh,India,381330,man-342028
+MA-MA-10103,Management,Chennai,Tamil Nadu,India,284233,man-337048
+IT-DE-44700,IT and Technology,Jaipur,Rajasthan,India,182499,man-489694
+IT-SO-70953,IT and Technology,Chandigarh,Chandigarh,India,473682,man-196997
+MA-GE-95116,Management,Jaipur,Rajasthan,India,434135,man-606232
+IT-SY-29585,IT and Technology,Kochi,Kerala,India,257657,man-623342
+MA-OP-90294,Management,Lucknow,Uttar Pradesh,India,407057,man-389120
+MA-GE-50344,Management,Delhi,Delhi,India,479548,man-990471
+MA-SA-51848,Management,Coimbatore,Tamil Nadu,India,252227,man-840511
+IT-DA-85044,IT and Technology,Hyderabad,Telangana,India,389261,man-896948
+IT-IT-72790,IT and Technology,Bengaluru,Karnataka,India,468163,man-359196
+IT-FR-24445,IT and Technology,Pune,Maharashtra,India,306291,man-471986
+MA-FI-27623,Management,Mumbai,Maharashtra,India,153367,man-218037
+MA-PR-55974,Management,Ahmedabad,Gujarat,India,219794,man-808487
+IT-DA-11507,IT and Technology,Coimbatore,Tamil Nadu,India,136663,man-291446
+MA-OP-39156,Management,Vadodara,Gujarat,India,135192,man-990475
+IT-CL-99642,IT and Technology,Bengaluru,Karnataka,India,333349,man-214006
+MA-SA-94276,Management,Gurgaon,Haryana,India,491392,man-203725
+MA-MA-84533,Management,Bengaluru,Karnataka,India,218492,man-725692
+MA-HU-94537,Management,Vadodara,Gujarat,India,402280,man-422944
+MA-CU-15856,Management,Hyderabad,Telangana,India,360574,man-489146
+MA-FI-53849,Management,Gurgaon,Haryana,India,498885,man-849030
+IT-SY-14166,IT and Technology,Vadodara,Gujarat,India,150954,man-235703
+MA-GE-60381,Management,Chandigarh,Chandigarh,India,462177,man-182442
+MA-CU-85858,Management,Ahmedabad,Gujarat,India,138423,man-244815
+MA-PR-35960,Management,Bhopal,Madhya Pradesh,India,126380,man-473525
+IT-SO-66520,IT and Technology,Delhi,Delhi,India,410248,man-873256
+IT-CY-45639,IT and Technology,Kochi,Kerala,India,396578,man-432829
+MA-HU-76848,Management,Pune,Maharashtra,India,284376,man-458696
+MA-GE-91746,Management,Gurgaon,Haryana,India,285164,man-271201
+IT-SY-80899,IT and Technology,Hyderabad,Telangana,India,460697,man-458802
+MA-GE-77599,Management,Nagpur,Maharashtra,India,343291,man-880755
+MA-IT-33785,Management,Mumbai,Maharashtra,India,157527,man-214968
+MA-FI-95190,Management,Indore,Madhya Pradesh,India,255892,man-590889
+MA-HU-88743,Management,Kochi,Kerala,India,432570,man-404627
+IT-NE-41781,IT and Technology,Chennai,Tamil Nadu,India,483584,man-940542
+IT-DA-35922,IT and Technology,Coimbatore,Tamil Nadu,India,113102,man-477693
+MA-HU-34801,Management,Ahmedabad,Gujarat,India,285934,man-895268
+MA-OP-12449,Management,Bhopal,Madhya Pradesh,India,117813,man-219999
+MA-CU-43694,Management,Gurgaon,Haryana,India,241395,man-697291
+IT-CY-56305,IT and Technology,Bengaluru,Karnataka,India,135060,man-228404
+IT-DE-56771,IT and Technology,Kochi,Kerala,India,286238,man-165175
+MA-PR-48564,Management,Bengaluru,Karnataka,India,226400,man-831451
+IT-NE-90497,IT and Technology,Visakhapatnam,Andhra Pradesh,India,401196,man-103630
+MA-IT-75077,Management,Chennai,Tamil Nadu,India,315111,man-445495
+IT-CY-14687,IT and Technology,Visakhapatnam,Andhra Pradesh,India,261945,man-474333
+MA-OP-97110,Management,Delhi,Delhi,India,469538,man-954515
+MA-FI-55349,Management,Hyderabad,Telangana,India,482973,man-917310
+IT-CL-88102,IT and Technology,Delhi,Delhi,India,487477,man-636159
+MA-OP-47645,Management,Coimbatore,Tamil Nadu,India,427777,man-369394
+MA-MA-69062,Management,Chandigarh,Chandigarh,India,390041,man-215734
+MA-OP-44184,Management,Jaipur,Rajasthan,India,351616,man-389257
+MA-MA-30761,Management,Hyderabad,Telangana,India,380940,man-452468
+MA-IT-30861,Management,Kochi,Kerala,India,494245,man-197526
+MA-PR-85519,Management,Mumbai,Maharashtra,India,297965,man-597444
+MA-MA-56059,Management,Indore,Madhya Pradesh,India,419248,man-573730
+IT-SY-53656,IT and Technology,Chennai,Tamil Nadu,India,376793,man-979548
+MA-CU-18234,Management,Vadodara,Gujarat,India,150276,man-568437
+IT-SY-72142,IT and Technology,Visakhapatnam,Andhra Pradesh,India,272477,man-416782
+IT-CY-17151,IT and Technology,Lucknow,Uttar Pradesh,India,399659,man-580274
+MA-IT-70782,Management,Bhopal,Madhya Pradesh,India,243451,man-606385
+IT-DA-58762,IT and Technology,Visakhapatnam,Andhra Pradesh,India,195626,man-824691
+IT-SO-76596,IT and Technology,Pune,Maharashtra,India,340530,man-200503
+IT-CL-83385,IT and Technology,Delhi,Delhi,India,144556,man-114734
+MA-PR-34542,Management,Indore,Madhya Pradesh,India,167116,man-229530
+IT-SY-90471,IT and Technology,Bhopal,Madhya Pradesh,India,186486,man-600920
+MA-OP-90704,Management,Gurgaon,Haryana,India,418899,man-946041
+IT-IT-64538,IT and Technology,Gurgaon,Haryana,India,157021,man-942856
+IT-CY-53717,IT and Technology,Mumbai,Maharashtra,India,487930,man-395427
+IT-CY-28904,IT and Technology,Hyderabad,Telangana,India,313374,man-635024
+MA-PR-47002,Management,Ahmedabad,Gujarat,India,281527,man-381601
+MA-PR-20777,Management,Chennai,Tamil Nadu,India,240913,man-256612
+IT-DE-53629,IT and Technology,Hyderabad,Telangana,India,303689,man-485656
+IT-FR-79142,IT and Technology,Gurgaon,Haryana,India,410720,man-329707
+IT-CY-53246,IT and Technology,Kochi,Kerala,India,470600,man-868102
+IT-DE-41950,IT and Technology,Coimbatore,Tamil Nadu,India,138206,man-448588
+IT-IT-50959,IT and Technology,Bhopal,Madhya Pradesh,India,451747,man-107603
+MA-MA-85229,Management,Indore,Madhya Pradesh,India,306096,man-236753
+IT-FR-83205,IT and Technology,Pune,Maharashtra,India,144729,man-795690
+IT-CL-69488,IT and Technology,Hyderabad,Telangana,India,152895,man-235221
+IT-DE-45009,IT and Technology,Kochi,Kerala,India,248519,man-389973
+MA-IT-29998,Management,Bhopal,Madhya Pradesh,India,185383,man-600567
+MA-GE-61637,Management,Chandigarh,Chandigarh,India,481786,man-552739
+IT-IT-48049,IT and Technology,Chennai,Tamil Nadu,India,331677,man-757953
+MA-HU-23157,Management,Delhi,Delhi,India,158851,man-985390
+IT-CY-93535,IT and Technology,Pune,Maharashtra,India,295634,man-854462
+IT-IT-31361,IT and Technology,Mumbai,Maharashtra,India,185187,man-933085
+IT-NE-94393,IT and Technology,Jaipur,Rajasthan,India,450793,man-216005
+IT-CL-21576,IT and Technology,Nagpur,Maharashtra,India,132103,man-252786
+MA-GE-12807,Management,Delhi,Delhi,India,135031,man-505579
+IT-DA-77700,IT and Technology,Vadodara,Gujarat,India,143106,man-261013
+MA-MA-45731,Management,Jaipur,Rajasthan,India,449355,man-226105
+MA-PR-94359,Management,Delhi,Delhi,India,385179,man-182507
+IT-SY-17945,IT and Technology,Nagpur,Maharashtra,India,142119,man-641945
+MA-OP-67887,Management,Chandigarh,Chandigarh,India,358474,man-516671
+IT-FR-22066,IT and Technology,Mumbai,Maharashtra,India,123294,man-469405
+MA-PR-21263,Management,Mumbai,Maharashtra,India,165166,man-254328
+IT-NE-94747,IT and Technology,Jaipur,Rajasthan,India,196328,man-698517
+IT-DA-78434,IT and Technology,Ahmedabad,Gujarat,India,434506,man-897893
+IT-FR-82658,IT and Technology,Vadodara,Gujarat,India,468908,man-537815
+MA-PR-14383,Management,Noida,Uttar Pradesh,India,364389,man-374541
+MA-GE-18891,Management,Noida,Uttar Pradesh,India,232834,man-240454
+MA-FI-57268,Management,Kochi,Kerala,India,296450,man-890057
+IT-CY-71653,IT and Technology,Indore,Madhya Pradesh,India,483027,man-892236
+IT-CY-41673,IT and Technology,Gurgaon,Haryana,India,413639,man-512391
+MA-IT-49388,Management,Chennai,Tamil Nadu,India,311791,man-299703
+IT-CL-95998,IT and Technology,Visakhapatnam,Andhra Pradesh,India,192633,man-280683
+IT-SY-11283,IT and Technology,Pune,Maharashtra,India,386348,man-398207
+MA-SA-18436,Management,Mumbai,Maharashtra,India,410714,man-807749
+IT-CY-29241,IT and Technology,Delhi,Delhi,India,490371,man-131463
+IT-IT-29574,IT and Technology,Kolkata,West Bengal,India,299381,man-326835
+MA-OP-64481,Management,Visakhapatnam,Andhra Pradesh,India,310753,man-208005
+MA-PR-18233,Management,Coimbatore,Tamil Nadu,India,115191,man-477322
+MA-MA-91278,Management,Nagpur,Maharashtra,India,388561,man-453032
+MA-PR-62671,Management,Chandigarh,Chandigarh,India,215662,man-491803
+IT-NE-43717,IT and Technology,Chandigarh,Chandigarh,India,134280,man-174687
+MA-MA-48773,Management,Vadodara,Gujarat,India,427281,man-699956
+MA-OP-99075,Management,Mumbai,Maharashtra,India,490843,man-700475
+IT-CL-39544,IT and Technology,Lucknow,Uttar Pradesh,India,339687,man-505903
+MA-GE-14703,Management,Mumbai,Maharashtra,India,214995,man-231655
+IT-DE-83261,IT and Technology,Lucknow,Uttar Pradesh,India,222746,man-642711
+IT-IT-31312,IT and Technology,Kochi,Kerala,India,395708,man-314662
+IT-NE-69491,IT and Technology,Indore,Madhya Pradesh,India,119314,man-305402
+MA-PR-79841,Management,Ahmedabad,Gujarat,India,240118,man-327035
+IT-CY-17992,IT and Technology,Noida,Uttar Pradesh,India,221858,man-794945
+MA-MA-55091,Management,Gurgaon,Haryana,India,378628,man-397124
+IT-IT-26991,IT and Technology,Nagpur,Maharashtra,India,484955,man-451958
+MA-PR-57622,Management,Vadodara,Gujarat,India,497179,man-486686
+MA-PR-18425,Management,Pune,Maharashtra,India,207674,man-793513
+MA-OP-92179,Management,Bhopal,Madhya Pradesh,India,233387,man-945802
+IT-CY-89625,IT and Technology,Kolkata,West Bengal,India,482727,man-440681
+MA-PR-28713,Management,Jaipur,Rajasthan,India,475656,man-843913
+MA-GE-92269,Management,Nagpur,Maharashtra,India,257969,man-304001
+IT-SO-69435,IT and Technology,Jaipur,Rajasthan,India,441860,man-314385
+MA-SA-46547,Management,Pune,Maharashtra,India,321785,man-849694
+MA-SA-34347,Management,Lucknow,Uttar Pradesh,India,283564,man-505153
+MA-SA-62497,Management,Ahmedabad,Gujarat,India,146414,man-663411
+MA-CU-80001,Management,Nagpur,Maharashtra,India,377778,man-801646
+MA-GE-35419,Management,Mumbai,Maharashtra,India,381888,man-335804
+MA-FI-90953,Management,Coimbatore,Tamil Nadu,India,129820,man-185313
+IT-IT-33894,IT and Technology,Delhi,Delhi,India,152457,man-389347
+IT-SO-58144,IT and Technology,Chandigarh,Chandigarh,India,332756,man-516505
+IT-FR-46423,IT and Technology,Indore,Madhya Pradesh,India,490919,man-275648
+IT-DE-73931,IT and Technology,Indore,Madhya Pradesh,India,137752,man-553030
+IT-SO-40685,IT and Technology,Bhopal,Madhya Pradesh,India,126481,man-602825
+IT-SO-11015,IT and Technology,Noida,Uttar Pradesh,India,149818,man-912301
+MA-PR-22363,Management,Bhopal,Madhya Pradesh,India,403976,man-548424
+IT-CL-84781,IT and Technology,Noida,Uttar Pradesh,India,218897,man-630136
+IT-CY-18173,IT and Technology,Pune,Maharashtra,India,421500,man-361483
+MA-HU-15919,Management,Visakhapatnam,Andhra Pradesh,India,180535,man-537978
+MA-HU-71698,Management,Ahmedabad,Gujarat,India,436463,man-667996
+MA-CU-84721,Management,Lucknow,Uttar Pradesh,India,382945,man-427883
+IT-SO-96554,IT and Technology,Hyderabad,Telangana,India,234644,man-525745
+MA-CU-39210,Management,Indore,Madhya Pradesh,India,454876,man-516287
+IT-CL-53537,IT and Technology,Bengaluru,Karnataka,India,211840,man-203425
+IT-DA-84452,IT and Technology,Vadodara,Gujarat,India,262719,man-780390
+IT-SO-29133,IT and Technology,Ahmedabad,Gujarat,India,228174,man-819132
+MA-PR-14436,Management,Bhopal,Madhya Pradesh,India,375316,man-427310
+IT-DE-17168,IT and Technology,Nagpur,Maharashtra,India,422620,man-347370
+IT-DE-56797,IT and Technology,Pune,Maharashtra,India,296776,man-113583
+IT-SO-21199,IT and Technology,Pune,Maharashtra,India,327966,man-885745
+MA-GE-40723,Management,Vadodara,Gujarat,India,441439,man-933406
+IT-CL-16831,IT and Technology,Delhi,Delhi,India,374558,man-230856
+MA-IT-79610,Management,Visakhapatnam,Andhra Pradesh,India,430285,man-218442
+MA-IT-22576,Management,Indore,Madhya Pradesh,India,233303,man-824734
+IT-SO-58749,IT and Technology,Vadodara,Gujarat,India,240894,man-830070
+MA-HU-90524,Management,Lucknow,Uttar Pradesh,India,115093,man-697772
+IT-CL-64329,IT and Technology,Lucknow,Uttar Pradesh,India,103638,man-785342
+IT-DA-22370,IT and Technology,Jaipur,Rajasthan,India,408708,man-226996
+IT-DE-11463,IT and Technology,Chandigarh,Chandigarh,India,116830,man-749617
+MA-GE-66704,Management,Coimbatore,Tamil Nadu,India,270280,man-826000
+IT-IT-17299,IT and Technology,Hyderabad,Telangana,India,457101,man-650900
+IT-DE-98386,IT and Technology,Hyderabad,Telangana,India,462911,man-448604
+MA-PR-22905,Management,Delhi,Delhi,India,345479,man-821731
+IT-IT-41764,IT and Technology,Pune,Maharashtra,India,140781,man-967620
+IT-DE-61850,IT and Technology,Kochi,Kerala,India,316153,man-998546
+MA-GE-24149,Management,Visakhapatnam,Andhra Pradesh,India,487964,man-190709
+MA-PR-91809,Management,Chandigarh,Chandigarh,India,268613,man-839491
+IT-NE-11343,IT and Technology,Bengaluru,Karnataka,India,425684,man-595822
+MA-MA-34601,Management,Lucknow,Uttar Pradesh,India,239249,man-375562
+IT-IT-81773,IT and Technology,Gurgaon,Haryana,India,225171,man-382374
+MA-MA-24676,Management,Kolkata,West Bengal,India,319799,man-807690
+MA-HU-19760,Management,Coimbatore,Tamil Nadu,India,246917,man-575307
+MA-CU-63936,Management,Visakhapatnam,Andhra Pradesh,India,238429,man-333220
+IT-NE-40526,IT and Technology,Coimbatore,Tamil Nadu,India,460423,man-233219
+MA-HU-72315,Management,Gurgaon,Haryana,India,452562,man-406808
+IT-CL-94748,IT and Technology,Hyderabad,Telangana,India,381689,man-924926
+IT-CL-11885,IT and Technology,Pune,Maharashtra,India,282089,man-366205
+MA-SA-90795,Management,Jaipur,Rajasthan,India,276109,man-324529
+IT-DA-85331,IT and Technology,Kolkata,West Bengal,India,309641,man-604965
+IT-IT-82617,IT and Technology,Coimbatore,Tamil Nadu,India,433881,man-962484
+IT-DE-94894,IT and Technology,Vadodara,Gujarat,India,405324,man-754207
+MA-OP-17076,Management,Pune,Maharashtra,India,339138,man-350505
+MA-GE-33791,Management,Bengaluru,Karnataka,India,218714,man-570087
+IT-DA-12028,IT and Technology,Mumbai,Maharashtra,India,496667,man-464210
+IT-FR-40332,IT and Technology,Noida,Uttar Pradesh,India,432900,man-932290
+MA-CU-19426,Management,Bhopal,Madhya Pradesh,India,461824,man-474660
+IT-FR-65192,IT and Technology,Kochi,Kerala,India,207887,man-854216
+IT-NE-21656,IT and Technology,Indore,Madhya Pradesh,India,304390,man-360118
+IT-IT-73865,IT and Technology,Nagpur,Maharashtra,India,224329,man-204265
+IT-IT-60712,IT and Technology,Bengaluru,Karnataka,India,230890,man-688188
+IT-FR-24077,IT and Technology,Visakhapatnam,Andhra Pradesh,India,476738,man-706243
+IT-SO-94813,IT and Technology,Gurgaon,Haryana,India,457747,man-714470
+IT-FR-90828,IT and Technology,Noida,Uttar Pradesh,India,274020,man-450639
+IT-CL-59581,IT and Technology,Noida,Uttar Pradesh,India,381111,man-508521
+MA-OP-69790,Management,Bhopal,Madhya Pradesh,India,203789,man-541145
+IT-IT-40556,IT and Technology,Lucknow,Uttar Pradesh,India,378982,man-499391
+IT-FR-66642,IT and Technology,Bengaluru,Karnataka,India,355424,man-603478
+IT-CY-31250,IT and Technology,Nagpur,Maharashtra,India,340372,man-114809
+IT-DE-20625,IT and Technology,Pune,Maharashtra,India,474766,man-774513
+MA-PR-84920,Management,Coimbatore,Tamil Nadu,India,383128,man-410269
+IT-DE-80438,IT and Technology,Pune,Maharashtra,India,272970,man-943397
+IT-FR-23877,IT and Technology,Chandigarh,Chandigarh,India,349378,man-633302
+MA-SA-46966,Management,Pune,Maharashtra,India,401118,man-704496
+IT-NE-76822,IT and Technology,Bhopal,Madhya Pradesh,India,141614,man-787197
+MA-PR-19353,Management,Chennai,Tamil Nadu,India,112744,man-803552
+IT-CY-36401,IT and Technology,Hyderabad,Telangana,India,329432,man-238032
+IT-SY-94068,IT and Technology,Nagpur,Maharashtra,India,308120,man-177101
+IT-IT-91695,IT and Technology,Bengaluru,Karnataka,India,336254,man-228757
+MA-FI-25646,Management,Coimbatore,Tamil Nadu,India,188954,man-299777
+IT-DE-55333,IT and Technology,Coimbatore,Tamil Nadu,India,346926,man-454930
+MA-IT-58167,Management,Chandigarh,Chandigarh,India,130851,man-334100
+MA-SA-53328,Management,Bengaluru,Karnataka,India,170286,man-733977
+MA-PR-82687,Management,Ahmedabad,Gujarat,India,268355,man-214377
+IT-CL-80775,IT and Technology,Coimbatore,Tamil Nadu,India,174751,man-386069
+IT-CY-27836,IT and Technology,Nagpur,Maharashtra,India,164336,man-802283
+IT-FR-13896,IT and Technology,Jaipur,Rajasthan,India,282977,man-251824
+MA-IT-49962,Management,Bhopal,Madhya Pradesh,India,280685,man-629352
+IT-SO-82880,IT and Technology,Mumbai,Maharashtra,India,306447,man-135320
+IT-SO-74915,IT and Technology,Nagpur,Maharashtra,India,350243,man-809046
+MA-CU-32974,Management,Delhi,Delhi,India,206302,man-742435
+MA-HU-55149,Management,Chandigarh,Chandigarh,India,401464,man-713971
+IT-FR-70839,IT and Technology,Hyderabad,Telangana,India,455230,man-684915
+IT-SO-94657,IT and Technology,Chandigarh,Chandigarh,India,437394,man-730663
+IT-IT-40401,IT and Technology,Chennai,Tamil Nadu,India,199560,man-937323
+IT-DA-39262,IT and Technology,Bhopal,Madhya Pradesh,India,171864,man-403610
+IT-DE-88841,IT and Technology,Mumbai,Maharashtra,India,367384,man-951524
+MA-HU-79563,Management,Pune,Maharashtra,India,100111,man-644115
+IT-FR-38902,IT and Technology,Kolkata,West Bengal,India,172588,man-766579
+MA-GE-32565,Management,Mumbai,Maharashtra,India,118712,man-421936
+IT-IT-14556,IT and Technology,Nagpur,Maharashtra,India,253149,man-412314
+IT-SO-60285,IT and Technology,Ahmedabad,Gujarat,India,464635,man-845214
+IT-CY-26113,IT and Technology,Vadodara,Gujarat,India,208235,man-754380
+IT-SY-34683,IT and Technology,Noida,Uttar Pradesh,India,198558,man-301318
+MA-OP-70021,Management,Vadodara,Gujarat,India,149655,man-538896
+IT-SO-28226,IT and Technology,Gurgaon,Haryana,India,427309,man-410244
+IT-CY-80569,IT and Technology,Nagpur,Maharashtra,India,259467,man-716934
+IT-IT-55084,IT and Technology,Ahmedabad,Gujarat,India,139434,man-291027
+IT-DA-87808,IT and Technology,Kolkata,West Bengal,India,309477,man-419741
+MA-MA-12181,Management,Indore,Madhya Pradesh,India,490296,man-905804
+IT-NE-38252,IT and Technology,Chandigarh,Chandigarh,India,351981,man-300156
+IT-SO-91487,IT and Technology,Coimbatore,Tamil Nadu,India,348650,man-914305
+MA-SA-23996,Management,Mumbai,Maharashtra,India,417571,man-173828
+MA-OP-93715,Management,Vadodara,Gujarat,India,123309,man-468810
+MA-IT-56987,Management,Bhopal,Madhya Pradesh,India,452640,man-149561
+MA-PR-92414,Management,Bhopal,Madhya Pradesh,India,354441,man-590218
+MA-PR-32576,Management,Pune,Maharashtra,India,389909,man-534282
+IT-SY-68966,IT and Technology,Noida,Uttar Pradesh,India,137102,man-440727
+MA-FI-62620,Management,Noida,Uttar Pradesh,India,428580,man-293744
+IT-FR-90801,IT and Technology,Chennai,Tamil Nadu,India,146916,man-453817
+MA-SA-30947,Management,Gurgaon,Haryana,India,143505,man-241893
+MA-MA-65200,Management,Nagpur,Maharashtra,India,240742,man-622008
+IT-SO-72276,IT and Technology,Pune,Maharashtra,India,420158,man-814138
+MA-CU-31325,Management,Vadodara,Gujarat,India,171964,man-930259
+IT-SY-27421,IT and Technology,Indore,Madhya Pradesh,India,277813,man-915404
+IT-DA-48776,IT and Technology,Coimbatore,Tamil Nadu,India,222083,man-992734
+MA-SA-78241,Management,Ahmedabad,Gujarat,India,128960,man-996020
+IT-CL-19927,IT and Technology,Delhi,Delhi,India,239349,man-172987
+MA-MA-44045,Management,Visakhapatnam,Andhra Pradesh,India,313580,man-739253
+MA-CU-77631,Management,Visakhapatnam,Andhra Pradesh,India,401735,man-741125
+IT-DE-85257,IT and Technology,Nagpur,Maharashtra,India,359562,man-578526
+IT-DA-59991,IT and Technology,Nagpur,Maharashtra,India,120801,man-796736
+IT-IT-39586,IT and Technology,Bengaluru,Karnataka,India,447105,man-224008
+MA-GE-65559,Management,Visakhapatnam,Andhra Pradesh,India,333670,man-186325
+MA-FI-46842,Management,Mumbai,Maharashtra,India,241813,man-743998
+MA-SA-67256,Management,Delhi,Delhi,India,111847,man-566316
+IT-DE-61027,IT and Technology,Nagpur,Maharashtra,India,431988,man-351111
+IT-SO-63373,IT and Technology,Lucknow,Uttar Pradesh,India,177774,man-432812
+IT-SY-36984,IT and Technology,Kolkata,West Bengal,India,341902,man-783112
+IT-CL-30371,IT and Technology,Jaipur,Rajasthan,India,479229,man-226726
+MA-HU-83634,Management,Mumbai,Maharashtra,India,365536,man-119128
+MA-PR-61261,Management,Jaipur,Rajasthan,India,460389,man-822628
+MA-PR-42389,Management,Indore,Madhya Pradesh,India,272736,man-854432
+IT-SY-66653,IT and Technology,Mumbai,Maharashtra,India,307972,man-375035
+MA-HU-57658,Management,Gurgaon,Haryana,India,129471,man-305397
+MA-HU-94504,Management,Lucknow,Uttar Pradesh,India,375858,man-821244
+IT-IT-76965,IT and Technology,Jaipur,Rajasthan,India,380522,man-182778
+MA-CU-59825,Management,Mumbai,Maharashtra,India,423955,man-819988
+IT-FR-12014,IT and Technology,Chennai,Tamil Nadu,India,306339,man-449263
+IT-DA-81957,IT and Technology,Jaipur,Rajasthan,India,294383,man-956354
+IT-DE-63101,IT and Technology,Nagpur,Maharashtra,India,425452,man-915476
+MA-HU-69987,Management,Noida,Uttar Pradesh,India,235782,man-859981
+IT-CL-69087,IT and Technology,Lucknow,Uttar Pradesh,India,384030,man-495100
+IT-DE-91942,IT and Technology,Chandigarh,Chandigarh,India,445434,man-801804
+MA-CU-57173,Management,Indore,Madhya Pradesh,India,460112,man-512058
+IT-IT-22072,IT and Technology,Mumbai,Maharashtra,India,458966,man-364436
+MA-OP-49465,Management,Coimbatore,Tamil Nadu,India,468927,man-426224
+MA-HU-67554,Management,Chennai,Tamil Nadu,India,150037,man-392257
+MA-PR-41581,Management,Chandigarh,Chandigarh,India,175816,man-233497
+IT-DA-45309,IT and Technology,Mumbai,Maharashtra,India,316708,man-587332
+IT-CY-77540,IT and Technology,Ahmedabad,Gujarat,India,237599,man-320586
+MA-SA-12342,Management,Hyderabad,Telangana,India,390135,man-297639
+MA-IT-48713,Management,Lucknow,Uttar Pradesh,India,476712,man-659589
+IT-SO-30737,IT and Technology,Mumbai,Maharashtra,India,188442,man-187025
+IT-SO-63197,IT and Technology,Lucknow,Uttar Pradesh,India,380946,man-719967
+MA-MA-75859,Management,Lucknow,Uttar Pradesh,India,301638,man-600890
+MA-MA-66680,Management,Lucknow,Uttar Pradesh,India,294220,man-987033
+IT-NE-64247,IT and Technology,Ahmedabad,Gujarat,India,357427,man-148991
+MA-HU-13823,Management,Gurgaon,Haryana,India,131888,man-956229
+MA-OP-31301,Management,Gurgaon,Haryana,India,171907,man-793385
+IT-CY-29696,IT and Technology,Ahmedabad,Gujarat,India,118498,man-580613
+MA-HU-17546,Management,Kolkata,West Bengal,India,367570,man-381972
+IT-CY-60951,IT and Technology,Ahmedabad,Gujarat,India,166588,man-705367
+MA-MA-73555,Management,Delhi,Delhi,India,331684,man-326299
+MA-PR-45747,Management,Chandigarh,Chandigarh,India,379039,man-577740
+MA-CU-98905,Management,Bhopal,Madhya Pradesh,India,423880,man-121374
+IT-IT-71228,IT and Technology,Jaipur,Rajasthan,India,374231,man-478354
+IT-NE-70861,IT and Technology,Visakhapatnam,Andhra Pradesh,India,249422,man-915009
+MA-GE-55706,Management,Kolkata,West Bengal,India,369618,man-538632
+IT-NE-11710,IT and Technology,Bengaluru,Karnataka,India,322088,man-860375
+MA-FI-55983,Management,Chennai,Tamil Nadu,India,286319,man-743748
+MA-OP-96942,Management,Bengaluru,Karnataka,India,410170,man-929398
+IT-DA-98322,IT and Technology,Noida,Uttar Pradesh,India,378196,man-628527
+MA-GE-85457,Management,Mumbai,Maharashtra,India,422947,man-564780
+MA-FI-47572,Management,Coimbatore,Tamil Nadu,India,160599,man-340417
+IT-CL-70392,IT and Technology,Mumbai,Maharashtra,India,337027,man-954126
+IT-SO-66377,IT and Technology,Bengaluru,Karnataka,India,391525,man-894282
+MA-HU-76373,Management,Chennai,Tamil Nadu,India,304321,man-913956
+IT-CY-61504,IT and Technology,Bhopal,Madhya Pradesh,India,446549,man-257401
+IT-IT-43996,IT and Technology,Lucknow,Uttar Pradesh,India,134088,man-209378
+IT-NE-34140,IT and Technology,Kolkata,West Bengal,India,454370,man-670792
+IT-DE-71689,IT and Technology,Coimbatore,Tamil Nadu,India,489547,man-771191
+IT-CL-22421,IT and Technology,Chandigarh,Chandigarh,India,425039,man-419614
+IT-CL-58648,IT and Technology,Ahmedabad,Gujarat,India,413822,man-687637
+IT-SO-72035,IT and Technology,Coimbatore,Tamil Nadu,India,233462,man-266768
+IT-CL-37229,IT and Technology,Indore,Madhya Pradesh,India,460223,man-633563
+MA-PR-32761,Management,Kolkata,West Bengal,India,357841,man-335146
+MA-IT-29789,Management,Noida,Uttar Pradesh,India,295939,man-261848
+IT-DA-96090,IT and Technology,Kolkata,West Bengal,India,177613,man-270752
+MA-CU-85680,Management,Chandigarh,Chandigarh,India,294288,man-823744
+IT-DA-93795,IT and Technology,Gurgaon,Haryana,India,381879,man-220374
+MA-OP-92779,Management,Gurgaon,Haryana,India,464817,man-834691
+MA-FI-18342,Management,Visakhapatnam,Andhra Pradesh,India,196030,man-605628
+MA-MA-92084,Management,Kolkata,West Bengal,India,152873,man-396773
+IT-IT-63244,IT and Technology,Bhopal,Madhya Pradesh,India,179018,man-358600
+MA-OP-39640,Management,Kolkata,West Bengal,India,359033,man-236973
+IT-DA-83531,IT and Technology,Ahmedabad,Gujarat,India,253996,man-408061
+MA-IT-96528,Management,Bhopal,Madhya Pradesh,India,434278,man-366910
+MA-CU-24057,Management,Gurgaon,Haryana,India,194789,man-732377
+MA-FI-34157,Management,Nagpur,Maharashtra,India,173843,man-859354
+IT-IT-29840,IT and Technology,Chennai,Tamil Nadu,India,441230,man-221997
+MA-HU-49771,Management,Kolkata,West Bengal,India,488950,man-740636
+IT-CL-62741,IT and Technology,Gurgaon,Haryana,India,332855,man-172798
+IT-DA-90989,IT and Technology,Vadodara,Gujarat,India,308476,man-595640
+IT-CL-79427,IT and Technology,Mumbai,Maharashtra,India,288100,man-357017
+MA-CU-17518,Management,Indore,Madhya Pradesh,India,479688,man-702363
+MA-HU-52158,Management,Chennai,Tamil Nadu,India,264184,man-208068
+MA-PR-79501,Management,Indore,Madhya Pradesh,India,435431,man-364921
+MA-CU-13442,Management,Nagpur,Maharashtra,India,492420,man-608846
+IT-SO-88131,IT and Technology,Bhopal,Madhya Pradesh,India,210365,man-822568
+IT-DA-15548,IT and Technology,Bengaluru,Karnataka,India,492217,man-347304
+IT-CL-33735,IT and Technology,Noida,Uttar Pradesh,India,467919,man-765361
+MA-CU-16099,Management,Coimbatore,Tamil Nadu,India,439738,man-807017
+MA-PR-62050,Management,Pune,Maharashtra,India,405019,man-934630
+IT-CY-18605,IT and Technology,Kolkata,West Bengal,India,296612,man-136366
+MA-PR-17206,Management,Gurgaon,Haryana,India,180794,man-161887
+IT-CL-14750,IT and Technology,Hyderabad,Telangana,India,230379,man-566690
+MA-SA-49224,Management,Mumbai,Maharashtra,India,107434,man-640795
+MA-IT-85898,Management,Chandigarh,Chandigarh,India,450104,man-414428
+MA-FI-19666,Management,Lucknow,Uttar Pradesh,India,190367,man-639240
+IT-DA-32427,IT and Technology,Nagpur,Maharashtra,India,417492,man-945523
+IT-FR-30894,IT and Technology,Delhi,Delhi,India,468409,man-941209
+IT-SO-24030,IT and Technology,Bhopal,Madhya Pradesh,India,337281,man-105947
+MA-OP-30358,Management,Lucknow,Uttar Pradesh,India,460425,man-854991
+MA-FI-71216,Management,Gurgaon,Haryana,India,309867,man-527686
+IT-DA-19012,IT and Technology,Jaipur,Rajasthan,India,282327,man-724878
+MA-PR-22515,Management,Mumbai,Maharashtra,India,217967,man-486254
+IT-SO-17179,IT and Technology,Indore,Madhya Pradesh,India,341711,man-882008
+MA-HU-34749,Management,Pune,Maharashtra,India,199677,man-721833
+IT-CY-51323,IT and Technology,Lucknow,Uttar Pradesh,India,445815,man-922808
+IT-CY-43575,IT and Technology,Noida,Uttar Pradesh,India,293211,man-626341
+IT-CL-35413,IT and Technology,Pune,Maharashtra,India,484857,man-862069
+IT-SO-19200,IT and Technology,Chennai,Tamil Nadu,India,192243,man-256385
+MA-PR-28029,Management,Ahmedabad,Gujarat,India,317479,man-520697
+IT-FR-16278,IT and Technology,Kochi,Kerala,India,266487,man-751278
+IT-SY-41477,IT and Technology,Vadodara,Gujarat,India,164218,man-547423
+MA-SA-92330,Management,Pune,Maharashtra,India,193770,man-889737
+MA-MA-90410,Management,Bhopal,Madhya Pradesh,India,324258,man-779863
+IT-FR-41756,IT and Technology,Pune,Maharashtra,India,371166,man-384673
+IT-CL-42158,IT and Technology,Jaipur,Rajasthan,India,102912,man-808810
+IT-SO-89479,IT and Technology,Noida,Uttar Pradesh,India,242614,man-971429
+MA-GE-84814,Management,Indore,Madhya Pradesh,India,276404,man-648262
+IT-CY-91905,IT and Technology,Jaipur,Rajasthan,India,483318,man-631124
+IT-DE-83290,IT and Technology,Chandigarh,Chandigarh,India,322532,man-731597
+MA-IT-59055,Management,Chandigarh,Chandigarh,India,352927,man-225230
+MA-MA-35118,Management,Bhopal,Madhya Pradesh,India,254366,man-600964
+IT-IT-85722,IT and Technology,Kochi,Kerala,India,242701,man-861056
+MA-OP-45538,Management,Delhi,Delhi,India,494023,man-274955
+MA-HU-33245,Management,Delhi,Delhi,India,379639,man-958448
+IT-NE-13676,IT and Technology,Chandigarh,Chandigarh,India,344490,man-896213
+IT-NE-26397,IT and Technology,Kolkata,West Bengal,India,414778,man-206610
+MA-PR-88630,Management,Nagpur,Maharashtra,India,333408,man-907399
+MA-OP-36611,Management,Noida,Uttar Pradesh,India,152624,man-352285
+MA-SA-27297,Management,Bengaluru,Karnataka,India,115679,man-514875
+MA-SA-29040,Management,Vadodara,Gujarat,India,369323,man-329127
+MA-FI-52378,Management,Coimbatore,Tamil Nadu,India,476539,man-895362
+MA-GE-90128,Management,Indore,Madhya Pradesh,India,274958,man-288182
+MA-GE-10458,Management,Coimbatore,Tamil Nadu,India,272654,man-874807
+MA-PR-90397,Management,Chennai,Tamil Nadu,India,451404,man-705414
+IT-IT-66040,IT and Technology,Delhi,Delhi,India,473108,man-616689
+IT-DA-82612,IT and Technology,Mumbai,Maharashtra,India,233175,man-275071
+MA-FI-87544,Management,Chandigarh,Chandigarh,India,223893,man-847767
+MA-CU-76220,Management,Chennai,Tamil Nadu,India,382296,man-908509
+MA-SA-61244,Management,Nagpur,Maharashtra,India,129623,man-402883
+IT-CL-37650,IT and Technology,Chennai,Tamil Nadu,India,485232,man-151656
+IT-NE-37269,IT and Technology,Mumbai,Maharashtra,India,105685,man-972486
+MA-PR-47592,Management,Delhi,Delhi,India,248652,man-800736
+IT-NE-28806,IT and Technology,Gurgaon,Haryana,India,122084,man-726229
+IT-FR-81358,IT and Technology,Kolkata,West Bengal,India,231940,man-890921
+MA-IT-38242,Management,Ahmedabad,Gujarat,India,425055,man-190136
+MA-IT-83067,Management,Jaipur,Rajasthan,India,103106,man-356753
+IT-NE-20276,IT and Technology,Chandigarh,Chandigarh,India,495213,man-545006
+MA-PR-68801,Management,Bhopal,Madhya Pradesh,India,428102,man-913846
+IT-DA-10098,IT and Technology,Delhi,Delhi,India,298560,man-187258
+IT-FR-47465,IT and Technology,Nagpur,Maharashtra,India,382334,man-574983
+IT-CL-83644,IT and Technology,Gurgaon,Haryana,India,258903,man-444982
+IT-CY-75734,IT and Technology,Lucknow,Uttar Pradesh,India,148271,man-311858
+IT-NE-26881,IT and Technology,Indore,Madhya Pradesh,India,129874,man-638909
+MA-FI-49268,Management,Jaipur,Rajasthan,India,155218,man-305816
+IT-CY-56349,IT and Technology,Hyderabad,Telangana,India,320139,man-589863
+MA-GE-47919,Management,Pune,Maharashtra,India,380574,man-189965
+MA-SA-93926,Management,Chandigarh,Chandigarh,India,173105,man-652256
+IT-SO-72613,IT and Technology,Chennai,Tamil Nadu,India,333472,man-616447
+MA-CU-49257,Management,Indore,Madhya Pradesh,India,293879,man-753154
+MA-OP-83543,Management,Mumbai,Maharashtra,India,458537,man-536716
+IT-DA-44304,IT and Technology,Bengaluru,Karnataka,India,321297,man-963184
+MA-GE-90970,Management,Coimbatore,Tamil Nadu,India,185731,man-130025
+MA-PR-38949,Management,Noida,Uttar Pradesh,India,152057,man-579483
+MA-OP-60430,Management,Pune,Maharashtra,India,327548,man-376428
+IT-DE-27227,IT and Technology,Jaipur,Rajasthan,India,136116,man-979778
+MA-PR-29407,Management,Chennai,Tamil Nadu,India,161178,man-199414
+IT-DE-24396,IT and Technology,Mumbai,Maharashtra,India,165329,man-765021
+IT-DE-16198,IT and Technology,Chennai,Tamil Nadu,India,424572,man-213528
+IT-CY-48447,IT and Technology,Coimbatore,Tamil Nadu,India,124483,man-680321
+IT-CY-46991,IT and Technology,Indore,Madhya Pradesh,India,334079,man-391177
+MA-FI-35647,Management,Noida,Uttar Pradesh,India,389753,man-898277
+IT-CY-20026,IT and Technology,Gurgaon,Haryana,India,365886,man-531575
+IT-CL-32139,IT and Technology,Indore,Madhya Pradesh,India,170086,man-602793
+MA-SA-50010,Management,Bhopal,Madhya Pradesh,India,445723,man-371677
+IT-SO-46893,IT and Technology,Gurgaon,Haryana,India,433409,man-414020
+MA-SA-24894,Management,Bengaluru,Karnataka,India,264416,man-307806
+IT-DA-63599,IT and Technology,Bengaluru,Karnataka,India,494664,man-103799
+IT-SY-90503,IT and Technology,Kolkata,West Bengal,India,427967,man-585037
+MA-IT-59165,Management,Mumbai,Maharashtra,India,428374,man-184577
+MA-GE-62551,Management,Bhopal,Madhya Pradesh,India,205221,man-481991
+MA-GE-18836,Management,Vadodara,Gujarat,India,371211,man-666325
+MA-PR-17708,Management,Vadodara,Gujarat,India,315666,man-353076
+MA-CU-80505,Management,Pune,Maharashtra,India,306887,man-182307
+MA-CU-62981,Management,Kolkata,West Bengal,India,478112,man-501416
+MA-PR-39243,Management,Nagpur,Maharashtra,India,293384,man-144305
+MA-FI-37203,Management,Hyderabad,Telangana,India,185904,man-349433
+IT-IT-59684,IT and Technology,Jaipur,Rajasthan,India,434601,man-371493
+IT-DE-93003,IT and Technology,Jaipur,Rajasthan,India,463393,man-946576
+IT-NE-29605,IT and Technology,Bengaluru,Karnataka,India,465776,man-489382
+IT-FR-81005,IT and Technology,Bhopal,Madhya Pradesh,India,440551,man-630849
+MA-HU-59710,Management,Bengaluru,Karnataka,India,156256,man-459779
+IT-CY-57030,IT and Technology,Bengaluru,Karnataka,India,436523,man-902575
+IT-DA-83082,IT and Technology,Ahmedabad,Gujarat,India,448322,man-120946
+IT-DA-72223,IT and Technology,Vadodara,Gujarat,India,493603,man-336690
+MA-PR-67028,Management,Noida,Uttar Pradesh,India,300061,man-413308
+MA-PR-98296,Management,Chennai,Tamil Nadu,India,317610,man-419305
+MA-FI-43855,Management,Noida,Uttar Pradesh,India,494546,man-917475
+IT-DA-30551,IT and Technology,Hyderabad,Telangana,India,347322,man-760788
+MA-GE-20700,Management,Hyderabad,Telangana,India,251501,man-300409
+MA-HU-14201,Management,Kolkata,West Bengal,India,186577,man-756670
+MA-PR-56383,Management,Kochi,Kerala,India,113890,man-844523
+IT-IT-20343,IT and Technology,Coimbatore,Tamil Nadu,India,385032,man-690560
+MA-PR-30452,Management,Chandigarh,Chandigarh,India,457390,man-648968
+MA-SA-24911,Management,Mumbai,Maharashtra,India,118496,man-462127
+IT-DE-60342,IT and Technology,Coimbatore,Tamil Nadu,India,340245,man-632000
+IT-CY-71257,IT and Technology,Bengaluru,Karnataka,India,160342,man-400679
+MA-MA-80118,Management,Chandigarh,Chandigarh,India,444817,man-913112
+MA-PR-28960,Management,Noida,Uttar Pradesh,India,218213,man-657232
+IT-DA-79603,IT and Technology,Noida,Uttar Pradesh,India,423624,man-691888
+MA-GE-63399,Management,Indore,Madhya Pradesh,India,325077,man-970872
+MA-OP-66118,Management,Kochi,Kerala,India,308592,man-174488
+MA-SA-83163,Management,Ahmedabad,Gujarat,India,146484,man-414009
+MA-PR-12675,Management,Ahmedabad,Gujarat,India,326623,man-945017
+MA-CU-37688,Management,Hyderabad,Telangana,India,466023,man-462743
+MA-FI-41728,Management,Bhopal,Madhya Pradesh,India,251683,man-170873
+IT-SY-60642,IT and Technology,Jaipur,Rajasthan,India,383785,man-688313
+MA-CU-66263,Management,Noida,Uttar Pradesh,India,285027,man-581243
+MA-PR-11224,Management,Jaipur,Rajasthan,India,262252,man-579252
+MA-SA-37726,Management,Ahmedabad,Gujarat,India,115835,man-609148
+IT-CL-56579,IT and Technology,Chennai,Tamil Nadu,India,337159,man-970405
+MA-GE-26073,Management,Visakhapatnam,Andhra Pradesh,India,183475,man-282877
+MA-OP-64353,Management,Kolkata,West Bengal,India,214389,man-191444
+MA-SA-87661,Management,Kochi,Kerala,India,403497,man-901597
+MA-FI-15170,Management,Visakhapatnam,Andhra Pradesh,India,453570,man-935206
+MA-CU-50837,Management,Chandigarh,Chandigarh,India,257522,man-986964
+MA-IT-82762,Management,Bhopal,Madhya Pradesh,India,328038,man-542314
+IT-DE-53212,IT and Technology,Jaipur,Rajasthan,India,224030,man-686577
+MA-FI-24980,Management,Chandigarh,Chandigarh,India,119083,man-628562
+IT-NE-90048,IT and Technology,Coimbatore,Tamil Nadu,India,227815,man-204533
+IT-DA-22532,IT and Technology,Indore,Madhya Pradesh,India,172063,man-308927
+IT-CY-22610,IT and Technology,Mumbai,Maharashtra,India,355732,man-158260
+MA-PR-41351,Management,Lucknow,Uttar Pradesh,India,436038,man-343882
+MA-OP-23252,Management,Lucknow,Uttar Pradesh,India,265058,man-916931
+IT-DE-83699,IT and Technology,Indore,Madhya Pradesh,India,285432,man-473587
+MA-OP-94213,Management,Gurgaon,Haryana,India,178509,man-433881
+MA-PR-94646,Management,Nagpur,Maharashtra,India,182383,man-380228
+IT-DE-95319,IT and Technology,Kochi,Kerala,India,163429,man-463538
+IT-CY-11541,IT and Technology,Bengaluru,Karnataka,India,213650,man-314306
+MA-SA-17192,Management,Noida,Uttar Pradesh,India,361843,man-975608
+IT-FR-95030,IT and Technology,Coimbatore,Tamil Nadu,India,409946,man-668875
+IT-DE-42331,IT and Technology,Bengaluru,Karnataka,India,367605,man-863388
+MA-CU-41565,Management,Coimbatore,Tamil Nadu,India,167133,man-132357
+MA-FI-51229,Management,Noida,Uttar Pradesh,India,176663,man-348720
+IT-IT-50080,IT and Technology,Kolkata,West Bengal,India,211404,man-934280
+IT-DE-18753,IT and Technology,Mumbai,Maharashtra,India,302355,man-900805
+IT-SO-32645,IT and Technology,Delhi,Delhi,India,450803,man-707342
+MA-GE-54340,Management,Vadodara,Gujarat,India,414249,man-953007
+IT-NE-37567,IT and Technology,Nagpur,Maharashtra,India,159161,man-711614
+MA-CU-65769,Management,Bengaluru,Karnataka,India,128687,man-235296
+IT-FR-98289,IT and Technology,Pune,Maharashtra,India,316192,man-688140
+MA-PR-79101,Management,Pune,Maharashtra,India,339302,man-664982
+MA-OP-93949,Management,Jaipur,Rajasthan,India,127879,man-908204
+MA-PR-43438,Management,Nagpur,Maharashtra,India,466578,man-254296
+MA-FI-67448,Management,Indore,Madhya Pradesh,India,481911,man-400737
+MA-OP-90340,Management,Delhi,Delhi,India,279190,man-785740
+IT-NE-73813,IT and Technology,Visakhapatnam,Andhra Pradesh,India,433934,man-423346
+MA-MA-32280,Management,Delhi,Delhi,India,441890,man-583017
+IT-IT-61576,IT and Technology,Chandigarh,Chandigarh,India,387138,man-304611
+IT-CY-94196,IT and Technology,Coimbatore,Tamil Nadu,India,361509,man-911138
+MA-PR-60877,Management,Noida,Uttar Pradesh,India,229749,man-658323
+MA-SA-93649,Management,Vadodara,Gujarat,India,264546,man-187028
+MA-PR-39236,Management,Bengaluru,Karnataka,India,476310,man-942403
+MA-PR-99675,Management,Lucknow,Uttar Pradesh,India,288155,man-775129
+MA-GE-49856,Management,Lucknow,Uttar Pradesh,India,387558,man-985185
+IT-DA-87605,IT and Technology,Chandigarh,Chandigarh,India,408701,man-400671
+MA-IT-35346,Management,Visakhapatnam,Andhra Pradesh,India,476948,man-561786
+IT-DA-19232,IT and Technology,Mumbai,Maharashtra,India,425668,man-133647
+MA-GE-27613,Management,Lucknow,Uttar Pradesh,India,443355,man-914742
+MA-IT-89183,Management,Coimbatore,Tamil Nadu,India,139329,man-129679
+MA-SA-24561,Management,Hyderabad,Telangana,India,413978,man-246265
+IT-CL-51398,IT and Technology,Visakhapatnam,Andhra Pradesh,India,316080,man-291823
+IT-IT-67887,IT and Technology,Chandigarh,Chandigarh,India,370053,man-481225
+IT-DA-36871,IT and Technology,Nagpur,Maharashtra,India,199304,man-810311
+IT-NE-19872,IT and Technology,Coimbatore,Tamil Nadu,India,450209,man-839923
+IT-FR-58914,IT and Technology,Lucknow,Uttar Pradesh,India,259295,man-805386
+IT-DE-24679,IT and Technology,Bhopal,Madhya Pradesh,India,192508,man-137926
+MA-IT-24734,Management,Lucknow,Uttar Pradesh,India,111036,man-419227
+IT-SY-34677,IT and Technology,Nagpur,Maharashtra,India,376596,man-886076
+IT-CY-75604,IT and Technology,Pune,Maharashtra,India,199963,man-518854
+IT-DA-39985,IT and Technology,Hyderabad,Telangana,India,430159,man-921496
+IT-CL-82594,IT and Technology,Gurgaon,Haryana,India,343731,man-484543
+MA-IT-61089,Management,Delhi,Delhi,India,112544,man-251709
+MA-PR-80281,Management,Kochi,Kerala,India,120034,man-846873
+IT-CY-66957,IT and Technology,Chandigarh,Chandigarh,India,207586,man-511505
+MA-MA-91146,Management,Ahmedabad,Gujarat,India,289069,man-869200
+MA-IT-82818,Management,Coimbatore,Tamil Nadu,India,441455,man-925402
+MA-OP-72208,Management,Chandigarh,Chandigarh,India,199447,man-440018
+IT-FR-41359,IT and Technology,Hyderabad,Telangana,India,180080,man-408075
+IT-DA-65295,IT and Technology,Delhi,Delhi,India,197396,man-459297
+MA-PR-55206,Management,Pune,Maharashtra,India,253856,man-655602
+MA-PR-18506,Management,Coimbatore,Tamil Nadu,India,233502,man-323410
+IT-SY-99674,IT and Technology,Coimbatore,Tamil Nadu,India,359985,man-164078
+MA-HU-62697,Management,Delhi,Delhi,India,347461,man-497557
+MA-SA-28334,Management,Hyderabad,Telangana,India,443365,man-526862
+MA-FI-93183,Management,Bengaluru,Karnataka,India,206551,man-318690
+IT-SY-54454,IT and Technology,Indore,Madhya Pradesh,India,248265,man-214145
+IT-IT-93641,IT and Technology,Indore,Madhya Pradesh,India,237434,man-449185
+IT-SY-14405,IT and Technology,Noida,Uttar Pradesh,India,461646,man-574625
+MA-CU-26511,Management,Chennai,Tamil Nadu,India,255890,man-341881
+MA-SA-16110,Management,Coimbatore,Tamil Nadu,India,119177,man-426881
+IT-DA-24903,IT and Technology,Mumbai,Maharashtra,India,157295,man-359875
+MA-OP-41476,Management,Noida,Uttar Pradesh,India,396825,man-700786
+MA-GE-62574,Management,Bhopal,Madhya Pradesh,India,184234,man-520473
+IT-SY-50168,IT and Technology,Chennai,Tamil Nadu,India,456085,man-470740
+IT-CL-41921,IT and Technology,Delhi,Delhi,India,331421,man-925366
+IT-SY-65318,IT and Technology,Hyderabad,Telangana,India,303652,man-660145
+IT-DA-18983,IT and Technology,Kolkata,West Bengal,India,443628,man-305075
+MA-PR-45443,Management,Pune,Maharashtra,India,305600,man-215283
+IT-DA-44906,IT and Technology,Noida,Uttar Pradesh,India,174299,man-477508
+MA-IT-42916,Management,Noida,Uttar Pradesh,India,446118,man-968143
+MA-GE-73249,Management,Pune,Maharashtra,India,142817,man-999287
+IT-DA-89436,IT and Technology,Chennai,Tamil Nadu,India,388046,man-597105
+MA-FI-95339,Management,Coimbatore,Tamil Nadu,India,313262,man-673838
+MA-PR-29760,Management,Lucknow,Uttar Pradesh,India,168717,man-769586
+IT-DA-23164,IT and Technology,Indore,Madhya Pradesh,India,136848,man-128807
+IT-SY-93405,IT and Technology,Bhopal,Madhya Pradesh,India,397148,man-690289
+MA-CU-74536,Management,Pune,Maharashtra,India,347030,man-201470
+IT-CL-72930,IT and Technology,Chennai,Tamil Nadu,India,354298,man-568301
+MA-IT-92508,Management,Pune,Maharashtra,India,138256,man-930169
+MA-IT-58465,Management,Kolkata,West Bengal,India,360778,man-941503
+MA-OP-47485,Management,Kolkata,West Bengal,India,129847,man-709888
+IT-FR-28668,IT and Technology,Kolkata,West Bengal,India,354336,man-225001
+IT-DE-72914,IT and Technology,Jaipur,Rajasthan,India,380874,man-752635
+IT-DA-49371,IT and Technology,Hyderabad,Telangana,India,242346,man-130772
+IT-NE-97060,IT and Technology,Coimbatore,Tamil Nadu,India,284294,man-349239
+IT-IT-35559,IT and Technology,Jaipur,Rajasthan,India,364032,man-970425
+MA-CU-13152,Management,Hyderabad,Telangana,India,229599,man-770705
+IT-DA-37698,IT and Technology,Bhopal,Madhya Pradesh,India,394505,man-213429
+IT-SY-52389,IT and Technology,Chandigarh,Chandigarh,India,266398,man-280085
+MA-OP-30417,Management,Pune,Maharashtra,India,217950,man-880843
+IT-CL-41387,IT and Technology,Hyderabad,Telangana,India,147474,man-708629
+MA-SA-42436,Management,Hyderabad,Telangana,India,192496,man-507278
+IT-FR-58698,IT and Technology,Pune,Maharashtra,India,469015,man-681305
+IT-IT-52959,IT and Technology,Pune,Maharashtra,India,102911,man-831026
+IT-DE-62965,IT and Technology,Ahmedabad,Gujarat,India,440020,man-522110
+IT-CY-60514,IT and Technology,Mumbai,Maharashtra,India,310948,man-256119
+MA-HU-72110,Management,Chandigarh,Chandigarh,India,236910,man-543935
+IT-CL-33860,IT and Technology,Vadodara,Gujarat,India,166630,man-289894
+MA-IT-94519,Management,Mumbai,Maharashtra,India,238847,man-410963
+IT-DA-33795,IT and Technology,Mumbai,Maharashtra,India,328970,man-865112
+IT-CL-69412,IT and Technology,Indore,Madhya Pradesh,India,220810,man-579746
+MA-MA-10575,Management,Ahmedabad,Gujarat,India,218024,man-593376
+MA-MA-91035,Management,Visakhapatnam,Andhra Pradesh,India,279893,man-823683
+IT-DE-14447,IT and Technology,Lucknow,Uttar Pradesh,India,472046,man-161441
+IT-NE-35025,IT and Technology,Hyderabad,Telangana,India,147528,man-874524
+IT-CY-67050,IT and Technology,Bhopal,Madhya Pradesh,India,107934,man-738108
+IT-IT-53435,IT and Technology,Mumbai,Maharashtra,India,159106,man-727225
+IT-DA-58805,IT and Technology,Chandigarh,Chandigarh,India,102866,man-765121
+MA-PR-80119,Management,Bhopal,Madhya Pradesh,India,306978,man-851027
+IT-FR-52935,IT and Technology,Mumbai,Maharashtra,India,357086,man-775277
+IT-CY-25889,IT and Technology,Gurgaon,Haryana,India,483390,man-314460
+IT-NE-49629,IT and Technology,Hyderabad,Telangana,India,259211,man-930920
+MA-PR-94205,Management,Indore,Madhya Pradesh,India,341060,man-668827
+IT-CL-34297,IT and Technology,Ahmedabad,Gujarat,India,108283,man-735323
+IT-DA-93364,IT and Technology,Indore,Madhya Pradesh,India,369221,man-217289
+MA-PR-81140,Management,Lucknow,Uttar Pradesh,India,497974,man-858801
+IT-CL-72469,IT and Technology,Gurgaon,Haryana,India,430497,man-477734
+MA-PR-68160,Management,Bengaluru,Karnataka,India,167718,man-206464
+IT-CY-16472,IT and Technology,Pune,Maharashtra,India,268413,man-396262
+MA-OP-34157,Management,Kochi,Kerala,India,457655,man-602002
+MA-PR-39989,Management,Nagpur,Maharashtra,India,217642,man-913470
+IT-FR-39753,IT and Technology,Coimbatore,Tamil Nadu,India,388371,man-190606
+IT-DA-66362,IT and Technology,Gurgaon,Haryana,India,433400,man-522182
+IT-CY-24559,IT and Technology,Ahmedabad,Gujarat,India,286303,man-381841
+IT-IT-89082,IT and Technology,Jaipur,Rajasthan,India,378803,man-507935
+IT-DA-65948,IT and Technology,Noida,Uttar Pradesh,India,142796,man-522000
+IT-DA-36198,IT and Technology,Lucknow,Uttar Pradesh,India,222253,man-727223
+MA-SA-48110,Management,Kolkata,West Bengal,India,249097,man-437832
+IT-NE-78420,IT and Technology,Jaipur,Rajasthan,India,240429,man-618003
+IT-CL-57239,IT and Technology,Noida,Uttar Pradesh,India,421661,man-445746
+MA-CU-91423,Management,Noida,Uttar Pradesh,India,325867,man-714245
+MA-OP-19935,Management,Lucknow,Uttar Pradesh,India,218401,man-333247
+IT-SY-68660,IT and Technology,Visakhapatnam,Andhra Pradesh,India,349710,man-113411
+MA-CU-53540,Management,Delhi,Delhi,India,296789,man-818936
+MA-PR-85779,Management,Bhopal,Madhya Pradesh,India,132100,man-852624
+IT-SO-24325,IT and Technology,Noida,Uttar Pradesh,India,299245,man-717422
+IT-FR-42234,IT and Technology,Gurgaon,Haryana,India,375477,man-738870
+IT-SO-97918,IT and Technology,Nagpur,Maharashtra,India,399607,man-942013
+IT-DA-46525,IT and Technology,Lucknow,Uttar Pradesh,India,171425,man-312838
+MA-SA-21932,Management,Kochi,Kerala,India,297634,man-525254
+IT-IT-60109,IT and Technology,Nagpur,Maharashtra,India,499656,man-143585
+MA-PR-66567,Management,Pune,Maharashtra,India,278903,man-282155
+IT-SY-52807,IT and Technology,Kolkata,West Bengal,India,205505,man-489552
+MA-CU-57379,Management,Chennai,Tamil Nadu,India,185617,man-802811
+MA-OP-16588,Management,Hyderabad,Telangana,India,302309,man-867591
+MA-FI-24981,Management,Gurgaon,Haryana,India,120848,man-803269
+IT-DA-37789,IT and Technology,Pune,Maharashtra,India,239173,man-472741
+IT-SO-90174,IT and Technology,Noida,Uttar Pradesh,India,105430,man-268833
+MA-HU-29289,Management,Hyderabad,Telangana,India,427898,man-635053
+IT-SY-55123,IT and Technology,Ahmedabad,Gujarat,India,218742,man-313308
+IT-FR-48285,IT and Technology,Bengaluru,Karnataka,India,138332,man-351814
+MA-IT-18979,Management,Vadodara,Gujarat,India,444406,man-370887
+IT-DA-11664,IT and Technology,Kolkata,West Bengal,India,361814,man-887365
+IT-DA-88472,IT and Technology,Pune,Maharashtra,India,184786,man-498949
+IT-SY-19119,IT and Technology,Gurgaon,Haryana,India,239361,man-972345
+IT-DA-57664,IT and Technology,Chandigarh,Chandigarh,India,383396,man-679851
+MA-CU-95497,Management,Jaipur,Rajasthan,India,170932,man-990461
+IT-DA-60422,IT and Technology,Pune,Maharashtra,India,244944,man-223287
+IT-CL-26013,IT and Technology,Kolkata,West Bengal,India,307260,man-186452
+IT-CY-44715,IT and Technology,Visakhapatnam,Andhra Pradesh,India,489177,man-969080
+MA-PR-24818,Management,Pune,Maharashtra,India,153226,man-783570
+MA-OP-28177,Management,Kolkata,West Bengal,India,369859,man-148300
+IT-CL-57287,IT and Technology,Vadodara,Gujarat,India,186990,man-702894
+MA-HU-17123,Management,Gurgaon,Haryana,India,293551,man-328979
+MA-SA-69527,Management,Nagpur,Maharashtra,India,436777,man-486012
+MA-SA-15577,Management,Kolkata,West Bengal,India,363005,man-387681
+MA-OP-84931,Management,Mumbai,Maharashtra,India,143457,man-832072
+IT-NE-50070,IT and Technology,Visakhapatnam,Andhra Pradesh,India,490062,man-280513
+IT-SO-41684,IT and Technology,Mumbai,Maharashtra,India,235693,man-889395
+MA-PR-98001,Management,Mumbai,Maharashtra,India,360089,man-136848
+IT-CL-90180,IT and Technology,Chennai,Tamil Nadu,India,342065,man-335765
+IT-DA-67245,IT and Technology,Mumbai,Maharashtra,India,353956,man-705274
+IT-IT-28020,IT and Technology,Bengaluru,Karnataka,India,290174,man-636293
+MA-PR-72550,Management,Delhi,Delhi,India,144678,man-842916
+IT-DE-84717,IT and Technology,Coimbatore,Tamil Nadu,India,167391,man-268697
+IT-DE-86392,IT and Technology,Kolkata,West Bengal,India,118730,man-996949
+IT-SY-40379,IT and Technology,Visakhapatnam,Andhra Pradesh,India,339324,man-186866
+IT-CY-11844,IT and Technology,Gurgaon,Haryana,India,199753,man-807642
+IT-IT-41654,IT and Technology,Indore,Madhya Pradesh,India,446159,man-543523
+MA-CU-67188,Management,Nagpur,Maharashtra,India,303129,man-929486
+IT-DA-39791,IT and Technology,Nagpur,Maharashtra,India,133204,man-322548
+MA-OP-71433,Management,Indore,Madhya Pradesh,India,402878,man-548533
+MA-MA-87045,Management,Bhopal,Madhya Pradesh,India,111053,man-973290
+MA-MA-20403,Management,Delhi,Delhi,India,428827,man-336083
+IT-DA-89212,IT and Technology,Pune,Maharashtra,India,300090,man-701699
+MA-IT-94285,Management,Indore,Madhya Pradesh,India,147602,man-183182
+MA-GE-61895,Management,Jaipur,Rajasthan,India,235387,man-296642
+IT-NE-73405,IT and Technology,Chennai,Tamil Nadu,India,317644,man-178281
+IT-SY-11817,IT and Technology,Lucknow,Uttar Pradesh,India,333114,man-736972
+MA-CU-71082,Management,Pune,Maharashtra,India,246307,man-218584
+IT-NE-97700,IT and Technology,Gurgaon,Haryana,India,260071,man-895225
+IT-SY-79523,IT and Technology,Delhi,Delhi,India,429109,man-962609
+MA-GE-48654,Management,Noida,Uttar Pradesh,India,444788,man-690025
+IT-NE-36502,IT and Technology,Gurgaon,Haryana,India,454161,man-105553
+MA-IT-26357,Management,Pune,Maharashtra,India,406829,man-724153
+MA-HU-68805,Management,Chennai,Tamil Nadu,India,256726,man-657904
+IT-DA-66376,IT and Technology,Jaipur,Rajasthan,India,412253,man-471721
+IT-CY-91324,IT and Technology,Chandigarh,Chandigarh,India,323299,man-104496
+IT-SY-86306,IT and Technology,Bhopal,Madhya Pradesh,India,472979,man-378841
+IT-FR-73871,IT and Technology,Gurgaon,Haryana,India,147371,man-904344
+MA-PR-14339,Management,Gurgaon,Haryana,India,454121,man-467850
+IT-CY-64279,IT and Technology,Chennai,Tamil Nadu,India,284243,man-108233
+MA-IT-27297,Management,Hyderabad,Telangana,India,401729,man-865766
+MA-OP-50424,Management,Bhopal,Madhya Pradesh,India,345970,man-520298
+MA-IT-82775,Management,Delhi,Delhi,India,127723,man-448236
+IT-CY-78144,IT and Technology,Visakhapatnam,Andhra Pradesh,India,397056,man-143093
+MA-IT-62449,Management,Pune,Maharashtra,India,424153,man-996686
+MA-PR-41255,Management,Jaipur,Rajasthan,India,313900,man-914476
+IT-CY-50815,IT and Technology,Lucknow,Uttar Pradesh,India,301594,man-906806
+IT-DA-64120,IT and Technology,Coimbatore,Tamil Nadu,India,266910,man-401894
+IT-DA-67814,IT and Technology,Coimbatore,Tamil Nadu,India,373793,man-475242
+MA-PR-47748,Management,Visakhapatnam,Andhra Pradesh,India,291420,man-603271
+IT-SY-12854,IT and Technology,Pune,Maharashtra,India,206628,man-453941
+MA-CU-48561,Management,Chandigarh,Chandigarh,India,229659,man-536309
+MA-PR-53816,Management,Noida,Uttar Pradesh,India,265468,man-473928
+IT-CY-25875,IT and Technology,Kolkata,West Bengal,India,192381,man-911946
+IT-SO-42764,IT and Technology,Noida,Uttar Pradesh,India,318475,man-660252
+MA-FI-30710,Management,Kolkata,West Bengal,India,279149,man-171354
+IT-DA-16637,IT and Technology,Indore,Madhya Pradesh,India,146907,man-302038
+IT-DA-23415,IT and Technology,Visakhapatnam,Andhra Pradesh,India,106895,man-188782
+IT-CL-88766,IT and Technology,Ahmedabad,Gujarat,India,175168,man-907804
+IT-DA-39120,IT and Technology,Lucknow,Uttar Pradesh,India,195652,man-531436
+MA-HU-20659,Management,Mumbai,Maharashtra,India,498479,man-671353
+MA-GE-35850,Management,Nagpur,Maharashtra,India,346763,man-767603
+MA-IT-89800,Management,Hyderabad,Telangana,India,248333,man-599261
+IT-NE-11690,IT and Technology,Visakhapatnam,Andhra Pradesh,India,478440,man-665179
+IT-SY-44907,IT and Technology,Chandigarh,Chandigarh,India,360091,man-431530
+IT-CL-29862,IT and Technology,Delhi,Delhi,India,414553,man-481989
+MA-HU-31918,Management,Coimbatore,Tamil Nadu,India,423260,man-570469
+IT-CL-10068,IT and Technology,Bengaluru,Karnataka,India,118090,man-793695
+MA-GE-80288,Management,Chennai,Tamil Nadu,India,158760,man-450112
+IT-CL-35246,IT and Technology,Ahmedabad,Gujarat,India,302650,man-586855
+MA-PR-23404,Management,Kolkata,West Bengal,India,381135,man-709403
+IT-DE-22703,IT and Technology,Vadodara,Gujarat,India,421856,man-240732
+MA-OP-92090,Management,Lucknow,Uttar Pradesh,India,115732,man-918509
+MA-FI-42749,Management,Vadodara,Gujarat,India,116342,man-226940
+IT-DA-91386,IT and Technology,Lucknow,Uttar Pradesh,India,213833,man-962724
+MA-HU-72196,Management,Pune,Maharashtra,India,178137,man-696442
+IT-DA-51743,IT and Technology,Kochi,Kerala,India,407656,man-896221
+IT-DE-54337,IT and Technology,Gurgaon,Haryana,India,377797,man-921223
+IT-CL-95005,IT and Technology,Vadodara,Gujarat,India,249847,man-847325
+MA-GE-86834,Management,Kochi,Kerala,India,413610,man-366458
+MA-GE-26195,Management,Nagpur,Maharashtra,India,387209,man-981144
+MA-IT-26685,Management,Delhi,Delhi,India,490074,man-269168
+IT-DE-12126,IT and Technology,Jaipur,Rajasthan,India,420459,man-832576
+IT-DE-98657,IT and Technology,Gurgaon,Haryana,India,138748,man-292176
+MA-CU-50034,Management,Chennai,Tamil Nadu,India,218622,man-535893
+MA-CU-16081,Management,Indore,Madhya Pradesh,India,448470,man-885488
+MA-PR-47794,Management,Delhi,Delhi,India,410335,man-344788
+MA-PR-14192,Management,Nagpur,Maharashtra,India,317151,man-338154
+IT-DA-24108,IT and Technology,Gurgaon,Haryana,India,281729,man-573746
+IT-DE-26568,IT and Technology,Nagpur,Maharashtra,India,136432,man-837964
+MA-CU-96912,Management,Bhopal,Madhya Pradesh,India,113953,man-822360
+MA-GE-66405,Management,Bhopal,Madhya Pradesh,India,410975,man-605053
+MA-CU-50479,Management,Jaipur,Rajasthan,India,289589,man-575317
+IT-CY-95349,IT and Technology,Gurgaon,Haryana,India,434730,man-221901
+IT-SO-38185,IT and Technology,Pune,Maharashtra,India,173531,man-640857
+IT-FR-33397,IT and Technology,Mumbai,Maharashtra,India,284652,man-965211
+IT-DE-39396,IT and Technology,Coimbatore,Tamil Nadu,India,493966,man-396726
+MA-OP-89349,Management,Kochi,Kerala,India,140832,man-307283
+IT-NE-50177,IT and Technology,Noida,Uttar Pradesh,India,308920,man-701790
+IT-FR-78428,IT and Technology,Visakhapatnam,Andhra Pradesh,India,212316,man-710559
+IT-IT-81679,IT and Technology,Visakhapatnam,Andhra Pradesh,India,192194,man-780899
+IT-FR-62910,IT and Technology,Chandigarh,Chandigarh,India,479083,man-402273
+IT-DA-23373,IT and Technology,Kochi,Kerala,India,282604,man-674431
+IT-DA-55400,IT and Technology,Kolkata,West Bengal,India,475386,man-741182
+MA-PR-84938,Management,Visakhapatnam,Andhra Pradesh,India,426007,man-188299
+MA-IT-75230,Management,Visakhapatnam,Andhra Pradesh,India,120881,man-756226
+IT-IT-80145,IT and Technology,Vadodara,Gujarat,India,224879,man-550167
+IT-SO-95161,IT and Technology,Mumbai,Maharashtra,India,308157,man-708340
+MA-GE-70001,Management,Coimbatore,Tamil Nadu,India,284971,man-459831
+IT-SO-92830,IT and Technology,Pune,Maharashtra,India,104651,man-121930
+MA-OP-90345,Management,Indore,Madhya Pradesh,India,163365,man-544594
+IT-DA-96418,IT and Technology,Chennai,Tamil Nadu,India,225577,man-726639
+IT-CL-47684,IT and Technology,Delhi,Delhi,India,361599,man-497902
+IT-FR-11407,IT and Technology,Chennai,Tamil Nadu,India,326048,man-702755
+MA-SA-55850,Management,Kochi,Kerala,India,218020,man-121777
+IT-NE-44605,IT and Technology,Mumbai,Maharashtra,India,250840,man-308610
+MA-GE-60806,Management,Kolkata,West Bengal,India,258238,man-772916
+MA-PR-53955,Management,Lucknow,Uttar Pradesh,India,325887,man-838062
+MA-CU-78122,Management,Delhi,Delhi,India,243426,man-753042
+IT-CY-41313,IT and Technology,Jaipur,Rajasthan,India,352227,man-331308
+MA-IT-12625,Management,Kolkata,West Bengal,India,144240,man-569595
+IT-CY-64273,IT and Technology,Mumbai,Maharashtra,India,441626,man-177141
+IT-DA-88764,IT and Technology,Coimbatore,Tamil Nadu,India,229193,man-913691
+MA-IT-56266,Management,Delhi,Delhi,India,231557,man-388333
+MA-OP-58975,Management,Bhopal,Madhya Pradesh,India,384629,man-433865
+IT-CY-48225,IT and Technology,Kochi,Kerala,India,292141,man-381214
+MA-HU-26932,Management,Indore,Madhya Pradesh,India,200672,man-912732
+IT-CL-18371,IT and Technology,Lucknow,Uttar Pradesh,India,303237,man-853735
+MA-HU-66073,Management,Hyderabad,Telangana,India,174032,man-307416
+MA-SA-67009,Management,Visakhapatnam,Andhra Pradesh,India,225495,man-794443
+IT-DA-44931,IT and Technology,Mumbai,Maharashtra,India,164150,man-902246
+MA-FI-33597,Management,Lucknow,Uttar Pradesh,India,196987,man-846409
+IT-SY-87248,IT and Technology,Bhopal,Madhya Pradesh,India,207058,man-747800
+MA-OP-76260,Management,Noida,Uttar Pradesh,India,132527,man-578282
+IT-FR-77903,IT and Technology,Visakhapatnam,Andhra Pradesh,India,374009,man-980431
+IT-NE-35431,IT and Technology,Nagpur,Maharashtra,India,310609,man-707151
+MA-OP-95309,Management,Indore,Madhya Pradesh,India,173368,man-130934
+MA-HU-30264,Management,Pune,Maharashtra,India,141668,man-185800
+MA-CU-10452,Management,Visakhapatnam,Andhra Pradesh,India,289648,man-469442
+IT-SY-60934,IT and Technology,Bengaluru,Karnataka,India,127896,man-750186
+MA-CU-52639,Management,Gurgaon,Haryana,India,409002,man-283956
+IT-CY-77972,IT and Technology,Coimbatore,Tamil Nadu,India,155584,man-502985
+IT-CL-76342,IT and Technology,Kolkata,West Bengal,India,170866,man-428699
+IT-IT-80604,IT and Technology,Jaipur,Rajasthan,India,443770,man-143756
+MA-PR-78917,Management,Delhi,Delhi,India,157022,man-834343
+MA-PR-83219,Management,Lucknow,Uttar Pradesh,India,128504,man-312821
+IT-DE-74166,IT and Technology,Chennai,Tamil Nadu,India,268165,man-432359
+MA-PR-24630,Management,Kochi,Kerala,India,332003,man-816474
+IT-NE-67529,IT and Technology,Coimbatore,Tamil Nadu,India,355025,man-509773
+MA-PR-37467,Management,Visakhapatnam,Andhra Pradesh,India,203750,man-713825
+IT-NE-53116,IT and Technology,Coimbatore,Tamil Nadu,India,316574,man-252240
+IT-FR-21383,IT and Technology,Kochi,Kerala,India,321230,man-560697
+MA-FI-14042,Management,Kochi,Kerala,India,233608,man-271578
+IT-DA-94888,IT and Technology,Gurgaon,Haryana,India,371118,man-878178
+MA-OP-27123,Management,Hyderabad,Telangana,India,259346,man-804281
+IT-CL-46650,IT and Technology,Visakhapatnam,Andhra Pradesh,India,245334,man-907502
+MA-HU-30514,Management,Vadodara,Gujarat,India,391884,man-455636
+IT-DA-24136,IT and Technology,Lucknow,Uttar Pradesh,India,313800,man-271662
+MA-CU-16494,Management,Kochi,Kerala,India,216966,man-748124
+IT-NE-92024,IT and Technology,Lucknow,Uttar Pradesh,India,339704,man-295913
+IT-DE-67096,IT and Technology,Noida,Uttar Pradesh,India,265951,man-857477
+IT-SO-92659,IT and Technology,Indore,Madhya Pradesh,India,104714,man-774026
+IT-SO-27332,IT and Technology,Delhi,Delhi,India,419228,man-840909
+IT-FR-14685,IT and Technology,Bengaluru,Karnataka,India,469585,man-448881
+MA-OP-41331,Management,Bhopal,Madhya Pradesh,India,457251,man-556910
+MA-GE-49582,Management,Ahmedabad,Gujarat,India,142613,man-992336
+MA-MA-66140,Management,Jaipur,Rajasthan,India,283861,man-901367
+IT-IT-76005,IT and Technology,Kochi,Kerala,India,261922,man-516074
+IT-CY-22568,IT and Technology,Nagpur,Maharashtra,India,271492,man-482310
+MA-GE-81132,Management,Ahmedabad,Gujarat,India,239840,man-341671
+MA-GE-83156,Management,Mumbai,Maharashtra,India,330935,man-843553
+IT-DA-63941,IT and Technology,Chennai,Tamil Nadu,India,267365,man-422874
+IT-NE-73099,IT and Technology,Gurgaon,Haryana,India,363276,man-183515
+MA-SA-47147,Management,Ahmedabad,Gujarat,India,336519,man-133456
+IT-IT-69606,IT and Technology,Nagpur,Maharashtra,India,290748,man-186077
+MA-GE-97171,Management,Kochi,Kerala,India,214512,man-690956
+MA-MA-44858,Management,Hyderabad,Telangana,India,196935,man-391032
+IT-SY-42774,IT and Technology,Kolkata,West Bengal,India,456111,man-570337
+IT-IT-96348,IT and Technology,Ahmedabad,Gujarat,India,196798,man-588522
+IT-IT-28857,IT and Technology,Bhopal,Madhya Pradesh,India,430215,man-193842
+IT-FR-13536,IT and Technology,Vadodara,Gujarat,India,379042,man-254592
+IT-DE-18044,IT and Technology,Mumbai,Maharashtra,India,254205,man-872062
+MA-OP-78026,Management,Bhopal,Madhya Pradesh,India,310802,man-308565
+IT-FR-47432,IT and Technology,Pune,Maharashtra,India,220761,man-812014
+MA-HU-42587,Management,Mumbai,Maharashtra,India,378247,man-719543
+MA-HU-69531,Management,Gurgaon,Haryana,India,260522,man-199474
+IT-CL-23135,IT and Technology,Noida,Uttar Pradesh,India,451167,man-190826
+MA-PR-82890,Management,Jaipur,Rajasthan,India,360530,man-882502
+IT-FR-78324,IT and Technology,Jaipur,Rajasthan,India,359893,man-599024
+IT-SO-70916,IT and Technology,Vadodara,Gujarat,India,238610,man-828414
+IT-SO-68985,IT and Technology,Kolkata,West Bengal,India,429977,man-765801
+IT-DA-86272,IT and Technology,Chennai,Tamil Nadu,India,153930,man-713485
+IT-IT-76833,IT and Technology,Hyderabad,Telangana,India,191900,man-917749
+IT-CY-81264,IT and Technology,Kochi,Kerala,India,239901,man-418432
+MA-MA-23831,Management,Noida,Uttar Pradesh,India,258710,man-436373
+MA-GE-99473,Management,Delhi,Delhi,India,407295,man-359166
+IT-CY-32101,IT and Technology,Kochi,Kerala,India,362711,man-526406
+MA-FI-77780,Management,Ahmedabad,Gujarat,India,445031,man-389719
+MA-PR-61823,Management,Indore,Madhya Pradesh,India,178470,man-583135
+IT-DA-34868,IT and Technology,Visakhapatnam,Andhra Pradesh,India,401798,man-605931
+IT-IT-32079,IT and Technology,Nagpur,Maharashtra,India,329478,man-883211
+MA-GE-29243,Management,Kochi,Kerala,India,418009,man-623109
+IT-DE-49046,IT and Technology,Bengaluru,Karnataka,India,461772,man-826683
+IT-DA-56909,IT and Technology,Coimbatore,Tamil Nadu,India,221844,man-600397
+MA-HU-23906,Management,Pune,Maharashtra,India,286648,man-215592
+IT-SY-13545,IT and Technology,Kolkata,West Bengal,India,135807,man-722859
+IT-CL-72588,IT and Technology,Jaipur,Rajasthan,India,437113,man-519966
+IT-IT-39552,IT and Technology,Jaipur,Rajasthan,India,103494,man-317675
+IT-SO-38721,IT and Technology,Jaipur,Rajasthan,India,426258,man-796456
+MA-MA-86686,Management,Hyderabad,Telangana,India,364863,man-769098
+IT-FR-56908,IT and Technology,Coimbatore,Tamil Nadu,India,156281,man-218601
+MA-CU-74152,Management,Jaipur,Rajasthan,India,404836,man-417802
+IT-IT-24021,IT and Technology,Visakhapatnam,Andhra Pradesh,India,351162,man-732601
+MA-OP-40329,Management,Bengaluru,Karnataka,India,376445,man-853538
+IT-SO-15770,IT and Technology,Indore,Madhya Pradesh,India,185960,man-289232
+MA-SA-22270,Management,Jaipur,Rajasthan,India,298763,man-532432
+IT-CL-89494,IT and Technology,Mumbai,Maharashtra,India,367793,man-677068
+MA-HU-33104,Management,Bhopal,Madhya Pradesh,India,170701,man-105790
+IT-SY-43682,IT and Technology,Visakhapatnam,Andhra Pradesh,India,361860,man-593227
+IT-DA-55754,IT and Technology,Kolkata,West Bengal,India,150257,man-447434
+MA-SA-86717,Management,Coimbatore,Tamil Nadu,India,243088,man-878264
+MA-CU-92930,Management,Hyderabad,Telangana,India,231606,man-802545
+IT-DA-30650,IT and Technology,Bhopal,Madhya Pradesh,India,204207,man-270271
+MA-FI-54508,Management,Hyderabad,Telangana,India,473699,man-779731
+MA-SA-47276,Management,Chandigarh,Chandigarh,India,304504,man-292815
+MA-IT-53469,Management,Noida,Uttar Pradesh,India,338432,man-186380
+IT-FR-23448,IT and Technology,Visakhapatnam,Andhra Pradesh,India,259763,man-772234
+IT-DA-50574,IT and Technology,Nagpur,Maharashtra,India,288489,man-595930
+MA-SA-35021,Management,Bhopal,Madhya Pradesh,India,277042,man-259508
+MA-FI-32203,Management,Lucknow,Uttar Pradesh,India,175394,man-755679
+MA-IT-54468,Management,Indore,Madhya Pradesh,India,156668,man-886780
+MA-SA-32738,Management,Chennai,Tamil Nadu,India,184495,man-455112
+MA-GE-15557,Management,Vadodara,Gujarat,India,480462,man-722158
+IT-SO-47911,IT and Technology,Chandigarh,Chandigarh,India,102024,man-584665
+IT-DE-10708,IT and Technology,Nagpur,Maharashtra,India,217039,man-247862
+IT-IT-85918,IT and Technology,Coimbatore,Tamil Nadu,India,191673,man-857920
+IT-SY-55926,IT and Technology,Kochi,Kerala,India,258918,man-493881
+MA-IT-91903,Management,Vadodara,Gujarat,India,146392,man-319612
+IT-CL-27234,IT and Technology,Kolkata,West Bengal,India,374001,man-121545
+MA-HU-12962,Management,Ahmedabad,Gujarat,India,393803,man-864803
+IT-SY-81984,IT and Technology,Hyderabad,Telangana,India,365761,man-141857
+IT-SY-39952,IT and Technology,Noida,Uttar Pradesh,India,215929,man-920498
+MA-PR-23215,Management,Bhopal,Madhya Pradesh,India,363905,man-751037
+IT-NE-88243,IT and Technology,Kolkata,West Bengal,India,114429,man-111408
+MA-GE-98022,Management,Chennai,Tamil Nadu,India,397020,man-674201
+MA-GE-57587,Management,Nagpur,Maharashtra,India,443207,man-727265
+MA-IT-55361,Management,Gurgaon,Haryana,India,234930,man-918039
+IT-FR-24329,IT and Technology,Bhopal,Madhya Pradesh,India,158833,man-974978
+MA-SA-70395,Management,Jaipur,Rajasthan,India,490127,man-136809
+IT-NE-57825,IT and Technology,Chandigarh,Chandigarh,India,330078,man-102477
+IT-DA-36765,IT and Technology,Coimbatore,Tamil Nadu,India,360318,man-333964
+MA-GE-17080,Management,Chandigarh,Chandigarh,India,480361,man-140107
+IT-IT-82692,IT and Technology,Nagpur,Maharashtra,India,169480,man-160774
+IT-FR-94023,IT and Technology,Indore,Madhya Pradesh,India,491176,man-346948
+IT-SY-50451,IT and Technology,Nagpur,Maharashtra,India,321899,man-742667
+MA-IT-75198,Management,Ahmedabad,Gujarat,India,310848,man-298402
+MA-CU-65406,Management,Jaipur,Rajasthan,India,219141,man-896403
+IT-SY-60896,IT and Technology,Gurgaon,Haryana,India,428600,man-446177
+IT-IT-78397,IT and Technology,Kolkata,West Bengal,India,345356,man-814844
+MA-OP-96758,Management,Pune,Maharashtra,India,137505,man-875878
+MA-MA-10095,Management,Nagpur,Maharashtra,India,260871,man-996257
+MA-GE-76953,Management,Ahmedabad,Gujarat,India,180447,man-352524
+MA-FI-85953,Management,Noida,Uttar Pradesh,India,149573,man-740495
+IT-DE-63622,IT and Technology,Hyderabad,Telangana,India,442121,man-341399
+MA-SA-23066,Management,Chennai,Tamil Nadu,India,388190,man-233996
+MA-PR-94773,Management,Ahmedabad,Gujarat,India,180180,man-827675
+IT-CY-13252,IT and Technology,Chandigarh,Chandigarh,India,436832,man-893366
+MA-HU-97367,Management,Indore,Madhya Pradesh,India,254440,man-239432
+MA-CU-97714,Management,Nagpur,Maharashtra,India,258033,man-932307
+MA-GE-60847,Management,Delhi,Delhi,India,328112,man-236597
+MA-GE-87489,Management,Gurgaon,Haryana,India,469598,man-437135
+IT-DA-13197,IT and Technology,Jaipur,Rajasthan,India,472224,man-621331
+IT-FR-74636,IT and Technology,Visakhapatnam,Andhra Pradesh,India,354843,man-648131
+MA-GE-29231,Management,Bengaluru,Karnataka,India,180515,man-214321
+IT-IT-97087,IT and Technology,Vadodara,Gujarat,India,220458,man-214013
+MA-SA-76053,Management,Coimbatore,Tamil Nadu,India,352864,man-940676
+IT-DE-19717,IT and Technology,Delhi,Delhi,India,268938,man-800378
+IT-SY-47020,IT and Technology,Indore,Madhya Pradesh,India,419206,man-578681
+MA-GE-39816,Management,Visakhapatnam,Andhra Pradesh,India,227109,man-711835
+IT-DE-49582,IT and Technology,Vadodara,Gujarat,India,110846,man-693248
+MA-PR-44351,Management,Gurgaon,Haryana,India,405517,man-825644
+MA-IT-99313,Management,Mumbai,Maharashtra,India,210561,man-997033
+MA-MA-40258,Management,Pune,Maharashtra,India,206062,man-233773
+MA-CU-67608,Management,Mumbai,Maharashtra,India,183344,man-814032
+IT-DA-71825,IT and Technology,Hyderabad,Telangana,India,477197,man-335825
+MA-PR-89761,Management,Kolkata,West Bengal,India,143577,man-786609
+MA-MA-28830,Management,Visakhapatnam,Andhra Pradesh,India,353843,man-471612
+IT-IT-85949,IT and Technology,Jaipur,Rajasthan,India,281232,man-349279
+IT-SY-29634,IT and Technology,Nagpur,Maharashtra,India,289931,man-501083
+MA-OP-55811,Management,Mumbai,Maharashtra,India,329574,man-727402
+MA-HU-72142,Management,Delhi,Delhi,India,239078,man-231474
+MA-GE-49248,Management,Vadodara,Gujarat,India,269954,man-168763
+IT-SY-53219,IT and Technology,Hyderabad,Telangana,India,379314,man-527447
+MA-FI-35458,Management,Pune,Maharashtra,India,409937,man-419245
+IT-CL-25580,IT and Technology,Nagpur,Maharashtra,India,216037,man-882322
+MA-PR-57517,Management,Kochi,Kerala,India,454095,man-646272
+IT-CL-67578,IT and Technology,Chennai,Tamil Nadu,India,343335,man-294796
+IT-CY-35983,IT and Technology,Coimbatore,Tamil Nadu,India,399718,man-620225
+IT-DA-75192,IT and Technology,Gurgaon,Haryana,India,401429,man-151624
+MA-HU-25329,Management,Indore,Madhya Pradesh,India,138321,man-954266
+MA-IT-84711,Management,Bengaluru,Karnataka,India,253442,man-471223
+MA-FI-86344,Management,Visakhapatnam,Andhra Pradesh,India,362256,man-218716
+MA-FI-45258,Management,Bengaluru,Karnataka,India,473130,man-297547
+IT-DE-90880,IT and Technology,Chennai,Tamil Nadu,India,414321,man-719860
+IT-CL-32763,IT and Technology,Kolkata,West Bengal,India,212472,man-846729
+IT-SO-89527,IT and Technology,Kochi,Kerala,India,300792,man-416457
+IT-CL-70207,IT and Technology,Pune,Maharashtra,India,498755,man-531736
+MA-MA-79005,Management,Jaipur,Rajasthan,India,162335,man-515548
+MA-PR-40651,Management,Ahmedabad,Gujarat,India,361657,man-855476
+MA-FI-97049,Management,Mumbai,Maharashtra,India,457535,man-655214
+MA-PR-15857,Management,Coimbatore,Tamil Nadu,India,317020,man-269060
+MA-MA-82801,Management,Gurgaon,Haryana,India,484242,man-646906
+IT-CL-57933,IT and Technology,Pune,Maharashtra,India,112770,man-147020
+MA-CU-42169,Management,Pune,Maharashtra,India,451979,man-260465
+MA-PR-41017,Management,Bhopal,Madhya Pradesh,India,367858,man-271292
+IT-NE-99488,IT and Technology,Indore,Madhya Pradesh,India,382710,man-845937
+MA-GE-59384,Management,Bengaluru,Karnataka,India,433055,man-204431
+MA-OP-49608,Management,Kolkata,West Bengal,India,327796,man-330446
+IT-FR-39489,IT and Technology,Jaipur,Rajasthan,India,425045,man-671757
+MA-SA-61376,Management,Vadodara,Gujarat,India,494478,man-973546
+IT-DE-28756,IT and Technology,Vadodara,Gujarat,India,349079,man-779574
+IT-DA-96232,IT and Technology,Chandigarh,Chandigarh,India,247572,man-540413
+IT-SO-67720,IT and Technology,Pune,Maharashtra,India,356218,man-736743
+IT-DA-76493,IT and Technology,Kolkata,West Bengal,India,127616,man-282569
+IT-DA-20944,IT and Technology,Bengaluru,Karnataka,India,110885,man-593642
+MA-PR-77207,Management,Lucknow,Uttar Pradesh,India,244190,man-985586
+MA-MA-86267,Management,Mumbai,Maharashtra,India,184137,man-764013
+IT-DA-16350,IT and Technology,Bengaluru,Karnataka,India,309427,man-559611
+IT-DA-79934,IT and Technology,Kolkata,West Bengal,India,485858,man-156441
+MA-SA-51455,Management,Bengaluru,Karnataka,India,211727,man-590186
+IT-DE-37918,IT and Technology,Vadodara,Gujarat,India,117347,man-142516
+IT-DA-87064,IT and Technology,Kolkata,West Bengal,India,364825,man-497140
+IT-NE-94134,IT and Technology,Coimbatore,Tamil Nadu,India,493941,man-252991
+IT-SO-72966,IT and Technology,Delhi,Delhi,India,298701,man-890817
+MA-HU-94505,Management,Hyderabad,Telangana,India,258027,man-160055
+MA-OP-25331,Management,Vadodara,Gujarat,India,267006,man-456708
+MA-IT-80224,Management,Delhi,Delhi,India,496863,man-189215
+IT-DE-96629,IT and Technology,Vadodara,Gujarat,India,489826,man-496531
+MA-SA-68393,Management,Bhopal,Madhya Pradesh,India,251466,man-947314
+MA-PR-80564,Management,Kolkata,West Bengal,India,207293,man-672880
+IT-CY-93144,IT and Technology,Coimbatore,Tamil Nadu,India,105576,man-621238
+MA-OP-20080,Management,Bengaluru,Karnataka,India,239731,man-148264
+MA-PR-77665,Management,Pune,Maharashtra,India,280154,man-805007
+IT-CL-94898,IT and Technology,Kochi,Kerala,India,247320,man-932142
+IT-SO-56371,IT and Technology,Visakhapatnam,Andhra Pradesh,India,186704,man-339010
+IT-CL-25796,IT and Technology,Lucknow,Uttar Pradesh,India,329810,man-720842
+IT-SO-31335,IT and Technology,Pune,Maharashtra,India,460360,man-580975
+IT-DA-12447,IT and Technology,Bengaluru,Karnataka,India,316796,man-260759
+IT-DE-85439,IT and Technology,Vadodara,Gujarat,India,345492,man-658044
+MA-IT-61046,Management,Gurgaon,Haryana,India,240749,man-572138
+MA-OP-11301,Management,Vadodara,Gujarat,India,453883,man-775150
+MA-IT-14254,Management,Indore,Madhya Pradesh,India,446658,man-851785
+IT-FR-28890,IT and Technology,Ahmedabad,Gujarat,India,147546,man-801708
+MA-FI-60299,Management,Delhi,Delhi,India,281690,man-455305
+IT-NE-34026,IT and Technology,Noida,Uttar Pradesh,India,471887,man-838684
+IT-DE-11872,IT and Technology,Hyderabad,Telangana,India,144547,man-978430
+MA-OP-27188,Management,Indore,Madhya Pradesh,India,199267,man-902440
+MA-PR-61477,Management,Bengaluru,Karnataka,India,106489,man-475944
+IT-CL-44731,IT and Technology,Jaipur,Rajasthan,India,236680,man-623829
+IT-CL-58594,IT and Technology,Pune,Maharashtra,India,377144,man-168789
+MA-FI-89567,Management,Lucknow,Uttar Pradesh,India,396459,man-492160
+IT-CL-79730,IT and Technology,Jaipur,Rajasthan,India,336543,man-391255
+MA-GE-33091,Management,Indore,Madhya Pradesh,India,137913,man-156050
+IT-DA-20160,IT and Technology,Noida,Uttar Pradesh,India,154378,man-926695
+MA-CU-41621,Management,Bhopal,Madhya Pradesh,India,149484,man-455661
+MA-PR-33869,Management,Pune,Maharashtra,India,417981,man-460790
+IT-DA-19065,IT and Technology,Pune,Maharashtra,India,200353,man-793618
+IT-FR-11769,IT and Technology,Kolkata,West Bengal,India,405783,man-279632
+IT-NE-59507,IT and Technology,Indore,Madhya Pradesh,India,270604,man-599647
+MA-SA-26638,Management,Kochi,Kerala,India,130550,man-194928
+IT-DA-65603,IT and Technology,Coimbatore,Tamil Nadu,India,271985,man-333661
+IT-DE-64498,IT and Technology,Bhopal,Madhya Pradesh,India,225137,man-901456
+IT-CY-55791,IT and Technology,Vadodara,Gujarat,India,259682,man-809926
+IT-DE-57933,IT and Technology,Bhopal,Madhya Pradesh,India,271175,man-555351
+IT-FR-69912,IT and Technology,Kochi,Kerala,India,460404,man-166367
+IT-DE-14005,IT and Technology,Gurgaon,Haryana,India,451070,man-730149
+IT-NE-23541,IT and Technology,Kochi,Kerala,India,402378,man-755955
+IT-DA-56284,IT and Technology,Chandigarh,Chandigarh,India,345688,man-571239
+MA-MA-88608,Management,Kolkata,West Bengal,India,365854,man-408196
+MA-FI-39814,Management,Hyderabad,Telangana,India,216320,man-178475
+IT-DA-52880,IT and Technology,Kochi,Kerala,India,164402,man-947607
+IT-CY-50255,IT and Technology,Bengaluru,Karnataka,India,210047,man-420920
+IT-DA-66563,IT and Technology,Pune,Maharashtra,India,441015,man-857285
+IT-FR-38035,IT and Technology,Kolkata,West Bengal,India,158710,man-235507
+MA-PR-87150,Management,Jaipur,Rajasthan,India,261821,man-208627
+IT-NE-95822,IT and Technology,Lucknow,Uttar Pradesh,India,320533,man-773679
+MA-CU-18806,Management,Chandigarh,Chandigarh,India,461800,man-240993
+MA-HU-56798,Management,Bengaluru,Karnataka,India,194533,man-804950
+MA-FI-14450,Management,Vadodara,Gujarat,India,163273,man-263079
+IT-CY-82428,IT and Technology,Vadodara,Gujarat,India,371832,man-277412
+IT-IT-48935,IT and Technology,Coimbatore,Tamil Nadu,India,350462,man-764120
+MA-SA-66428,Management,Nagpur,Maharashtra,India,249120,man-586325
+MA-MA-12691,Management,Noida,Uttar Pradesh,India,149225,man-433835
+IT-CL-78788,IT and Technology,Mumbai,Maharashtra,India,318725,man-953579
+IT-SO-85306,IT and Technology,Gurgaon,Haryana,India,299310,man-636761
+MA-SA-62317,Management,Coimbatore,Tamil Nadu,India,365039,man-322655
+MA-PR-53785,Management,Kochi,Kerala,India,311908,man-475872
+IT-FR-18987,IT and Technology,Chennai,Tamil Nadu,India,353829,man-584036
+IT-CL-14638,IT and Technology,Chennai,Tamil Nadu,India,267201,man-420539
+IT-DA-26383,IT and Technology,Nagpur,Maharashtra,India,194509,man-413756
+MA-FI-63410,Management,Nagpur,Maharashtra,India,112280,man-530880
+MA-MA-73032,Management,Kolkata,West Bengal,India,342299,man-347404
+MA-PR-41626,Management,Chennai,Tamil Nadu,India,113922,man-509181
+IT-SO-58160,IT and Technology,Visakhapatnam,Andhra Pradesh,India,468478,man-582563
+IT-NE-14344,IT and Technology,Kolkata,West Bengal,India,165180,man-767452
+IT-IT-40247,IT and Technology,Kolkata,West Bengal,India,487213,man-668800
+IT-SO-13153,IT and Technology,Visakhapatnam,Andhra Pradesh,India,362188,man-593371
+IT-SY-98793,IT and Technology,Coimbatore,Tamil Nadu,India,435407,man-255747
+IT-DA-31786,IT and Technology,Kochi,Kerala,India,255489,man-927361
+IT-CY-49913,IT and Technology,Mumbai,Maharashtra,India,117925,man-471766
+IT-DA-34013,IT and Technology,Bengaluru,Karnataka,India,240538,man-856555
+IT-IT-10092,IT and Technology,Indore,Madhya Pradesh,India,466478,man-903805
+MA-HU-53597,Management,Mumbai,Maharashtra,India,475696,man-755853
+IT-SO-14465,IT and Technology,Lucknow,Uttar Pradesh,India,466149,man-489586
+IT-SY-20074,IT and Technology,Vadodara,Gujarat,India,231533,man-218963
+IT-DA-43668,IT and Technology,Kolkata,West Bengal,India,187992,man-515107
+IT-SO-48080,IT and Technology,Jaipur,Rajasthan,India,465416,man-628439
+MA-IT-99638,Management,Gurgaon,Haryana,India,298936,man-212618
+MA-CU-22054,Management,Bhopal,Madhya Pradesh,India,456848,man-846380
+IT-CY-88511,IT and Technology,Nagpur,Maharashtra,India,218808,man-326417
+IT-IT-78833,IT and Technology,Gurgaon,Haryana,India,194759,man-168304
+MA-OP-51666,Management,Delhi,Delhi,India,438732,man-258944
+IT-IT-65977,IT and Technology,Nagpur,Maharashtra,India,251434,man-105196
+IT-IT-66830,IT and Technology,Visakhapatnam,Andhra Pradesh,India,476564,man-608565
+IT-DE-68241,IT and Technology,Chandigarh,Chandigarh,India,499904,man-218983
+MA-PR-94975,Management,Ahmedabad,Gujarat,India,126795,man-405882
+MA-PR-60815,Management,Delhi,Delhi,India,244888,man-215927
+IT-NE-24570,IT and Technology,Bengaluru,Karnataka,India,486298,man-347229
+IT-FR-59732,IT and Technology,Indore,Madhya Pradesh,India,249904,man-406885
+MA-CU-76093,Management,Bengaluru,Karnataka,India,271926,man-174715
+IT-DE-24275,IT and Technology,Kochi,Kerala,India,439325,man-396475
+IT-SY-91656,IT and Technology,Hyderabad,Telangana,India,414179,man-441577
+MA-HU-34814,Management,Delhi,Delhi,India,155492,man-599600
+IT-CY-86678,IT and Technology,Visakhapatnam,Andhra Pradesh,India,125674,man-878591
+IT-IT-62833,IT and Technology,Vadodara,Gujarat,India,400654,man-965381
+MA-HU-20482,Management,Kolkata,West Bengal,India,487800,man-824445
+IT-DA-25455,IT and Technology,Kolkata,West Bengal,India,301375,man-647203
+IT-CY-46545,IT and Technology,Chennai,Tamil Nadu,India,290762,man-232463
+MA-MA-15131,Management,Visakhapatnam,Andhra Pradesh,India,230321,man-352495
+MA-CU-64734,Management,Bengaluru,Karnataka,India,485499,man-373782
+IT-DE-35246,IT and Technology,Pune,Maharashtra,India,130187,man-125256
+MA-HU-65157,Management,Lucknow,Uttar Pradesh,India,268779,man-217102
+IT-DE-66993,IT and Technology,Gurgaon,Haryana,India,119157,man-644351
+MA-PR-74766,Management,Hyderabad,Telangana,India,132222,man-585984
+IT-DE-90752,IT and Technology,Bhopal,Madhya Pradesh,India,201316,man-242443
+MA-HU-97014,Management,Chennai,Tamil Nadu,India,152587,man-184493
+IT-SY-64093,IT and Technology,Lucknow,Uttar Pradesh,India,413703,man-942329
+IT-FR-19223,IT and Technology,Vadodara,Gujarat,India,418024,man-477518
+MA-CU-28323,Management,Noida,Uttar Pradesh,India,149689,man-873623
+IT-SO-50760,IT and Technology,Jaipur,Rajasthan,India,140366,man-104608
+MA-OP-28558,Management,Coimbatore,Tamil Nadu,India,403177,man-623490
+IT-CY-59260,IT and Technology,Indore,Madhya Pradesh,India,177610,man-183959
+MA-CU-89054,Management,Ahmedabad,Gujarat,India,286929,man-841001
+MA-PR-48834,Management,Bengaluru,Karnataka,India,370138,man-737758
+IT-CL-23826,IT and Technology,Jaipur,Rajasthan,India,489788,man-240718
+IT-DA-26320,IT and Technology,Kolkata,West Bengal,India,386050,man-498527
+IT-FR-47679,IT and Technology,Noida,Uttar Pradesh,India,230121,man-655561
+IT-DA-94377,IT and Technology,Ahmedabad,Gujarat,India,198297,man-793323
+MA-MA-49915,Management,Hyderabad,Telangana,India,268058,man-148483
+IT-DA-60471,IT and Technology,Vadodara,Gujarat,India,412279,man-502199
+IT-CY-45440,IT and Technology,Chennai,Tamil Nadu,India,292274,man-152454
+IT-CL-21473,IT and Technology,Chandigarh,Chandigarh,India,433896,man-385016
+IT-CY-42029,IT and Technology,Bengaluru,Karnataka,India,302905,man-126018
+MA-PR-33275,Management,Chennai,Tamil Nadu,India,200908,man-265529
+MA-PR-15546,Management,Coimbatore,Tamil Nadu,India,487507,man-799968
+IT-DA-44446,IT and Technology,Pune,Maharashtra,India,209191,man-571571
+IT-SO-61129,IT and Technology,Chennai,Tamil Nadu,India,202600,man-327427
+MA-IT-23588,Management,Pune,Maharashtra,India,438803,man-259285
+IT-NE-15360,IT and Technology,Indore,Madhya Pradesh,India,115310,man-979399
+IT-NE-70810,IT and Technology,Gurgaon,Haryana,India,410148,man-959969
+IT-SY-81777,IT and Technology,Ahmedabad,Gujarat,India,337119,man-920284
+MA-MA-48763,Management,Ahmedabad,Gujarat,India,398842,man-342475
+MA-CU-70204,Management,Indore,Madhya Pradesh,India,218185,man-742166
+IT-FR-89030,IT and Technology,Pune,Maharashtra,India,437918,man-228850
+IT-NE-44747,IT and Technology,Hyderabad,Telangana,India,211041,man-849665
+IT-SY-50923,IT and Technology,Delhi,Delhi,India,405701,man-801555
+MA-CU-14608,Management,Bhopal,Madhya Pradesh,India,350263,man-465575
+IT-SO-41693,IT and Technology,Coimbatore,Tamil Nadu,India,282479,man-638008
+MA-CU-49687,Management,Bengaluru,Karnataka,India,353645,man-351884
+MA-HU-38163,Management,Kolkata,West Bengal,India,328523,man-278513
+IT-FR-34535,IT and Technology,Jaipur,Rajasthan,India,280460,man-837971
+MA-PR-92349,Management,Mumbai,Maharashtra,India,338826,man-779605
+MA-OP-90256,Management,Pune,Maharashtra,India,245707,man-576560
+IT-CL-11683,IT and Technology,Chennai,Tamil Nadu,India,240210,man-189561
+MA-PR-31391,Management,Lucknow,Uttar Pradesh,India,204865,man-582092
+IT-CL-98544,IT and Technology,Lucknow,Uttar Pradesh,India,431303,man-883683
+MA-MA-81369,Management,Kochi,Kerala,India,335945,man-613697
+IT-FR-63323,IT and Technology,Hyderabad,Telangana,India,352030,man-392856
+IT-DE-58435,IT and Technology,Noida,Uttar Pradesh,India,161799,man-378251
+MA-SA-15645,Management,Pune,Maharashtra,India,256183,man-494709
+MA-SA-53773,Management,Noida,Uttar Pradesh,India,264077,man-373486
+IT-NE-74014,IT and Technology,Hyderabad,Telangana,India,487805,man-935951
+MA-PR-97945,Management,Indore,Madhya Pradesh,India,363417,man-120755
+MA-HU-96022,Management,Chandigarh,Chandigarh,India,374372,man-789973
+MA-GE-51407,Management,Lucknow,Uttar Pradesh,India,147327,man-738699
+IT-DA-67185,IT and Technology,Mumbai,Maharashtra,India,239853,man-140995
+MA-PR-94782,Management,Lucknow,Uttar Pradesh,India,264870,man-454462
+IT-SY-63518,IT and Technology,Kochi,Kerala,India,153973,man-127331
+MA-MA-80442,Management,Vadodara,Gujarat,India,320696,man-943733
+MA-MA-14254,Management,Indore,Madhya Pradesh,India,373407,man-987382
+IT-SO-65580,IT and Technology,Nagpur,Maharashtra,India,214969,man-108194
+IT-CL-89384,IT and Technology,Visakhapatnam,Andhra Pradesh,India,107829,man-764073
+MA-FI-30427,Management,Visakhapatnam,Andhra Pradesh,India,474236,man-626155
+MA-IT-66106,Management,Indore,Madhya Pradesh,India,166725,man-130847
+MA-OP-60326,Management,Chandigarh,Chandigarh,India,157851,man-577803
+MA-OP-62624,Management,Mumbai,Maharashtra,India,341538,man-450096
+MA-PR-61313,Management,Gurgaon,Haryana,India,175133,man-711500
+IT-DE-36108,IT and Technology,Visakhapatnam,Andhra Pradesh,India,132647,man-207950
+IT-CY-55747,IT and Technology,Lucknow,Uttar Pradesh,India,389632,man-184489
+IT-DA-51954,IT and Technology,Jaipur,Rajasthan,India,311243,man-103475
+IT-CL-64991,IT and Technology,Bengaluru,Karnataka,India,124994,man-399025
+IT-SO-72113,IT and Technology,Delhi,Delhi,India,366691,man-750532
+MA-SA-33233,Management,Bhopal,Madhya Pradesh,India,135439,man-376234
+IT-FR-72818,IT and Technology,Kochi,Kerala,India,429967,man-520559
+IT-NE-91131,IT and Technology,Gurgaon,Haryana,India,469462,man-195413
+MA-IT-79054,Management,Kolkata,West Bengal,India,206673,man-550939
+MA-FI-20534,Management,Hyderabad,Telangana,India,235804,man-847355
+IT-NE-61999,IT and Technology,Lucknow,Uttar Pradesh,India,473767,man-124522
+IT-SY-83848,IT and Technology,Vadodara,Gujarat,India,298899,man-496860
+IT-IT-55611,IT and Technology,Jaipur,Rajasthan,India,382963,man-401710
+MA-PR-55848,Management,Vadodara,Gujarat,India,306189,man-124390
+IT-DE-89578,IT and Technology,Indore,Madhya Pradesh,India,121830,man-865380
+MA-CU-20729,Management,Indore,Madhya Pradesh,India,262854,man-670700
+MA-FI-74662,Management,Lucknow,Uttar Pradesh,India,205372,man-189590
+IT-CY-48426,IT and Technology,Pune,Maharashtra,India,130266,man-230088
+MA-IT-55060,Management,Delhi,Delhi,India,324257,man-879492
+MA-CU-93197,Management,Jaipur,Rajasthan,India,112642,man-903477
+MA-FI-60875,Management,Nagpur,Maharashtra,India,253721,man-854949
+IT-IT-79018,IT and Technology,Ahmedabad,Gujarat,India,237802,man-423585
+IT-SO-34138,IT and Technology,Noida,Uttar Pradesh,India,255079,man-568771
+MA-OP-93981,Management,Gurgaon,Haryana,India,205849,man-553389
+MA-PR-38433,Management,Gurgaon,Haryana,India,237555,man-273513
+MA-OP-72428,Management,Vadodara,Gujarat,India,429721,man-952261
+MA-HU-31835,Management,Noida,Uttar Pradesh,India,225287,man-758448
+IT-SY-13316,IT and Technology,Delhi,Delhi,India,159153,man-662953
+MA-PR-11633,Management,Delhi,Delhi,India,428293,man-594362
+IT-SO-30579,IT and Technology,Kolkata,West Bengal,India,107286,man-333108
+MA-PR-82183,Management,Chennai,Tamil Nadu,India,407257,man-262086
+IT-CY-64504,IT and Technology,Chandigarh,Chandigarh,India,279884,man-459866
+MA-HU-50669,Management,Chennai,Tamil Nadu,India,440789,man-451366
+IT-DA-48091,IT and Technology,Vadodara,Gujarat,India,494230,man-885321
+MA-OP-90033,Management,Gurgaon,Haryana,India,104230,man-303664
+IT-SO-55172,IT and Technology,Jaipur,Rajasthan,India,369389,man-312140
+IT-IT-25078,IT and Technology,Mumbai,Maharashtra,India,122008,man-995278
+IT-CY-63513,IT and Technology,Bengaluru,Karnataka,India,379413,man-800295
+MA-SA-70272,Management,Kolkata,West Bengal,India,399887,man-635419
+MA-PR-30867,Management,Visakhapatnam,Andhra Pradesh,India,153793,man-936456
+IT-CL-12853,IT and Technology,Indore,Madhya Pradesh,India,119925,man-249626
+MA-GE-68079,Management,Chandigarh,Chandigarh,India,216126,man-562127
+IT-DE-99699,IT and Technology,Noida,Uttar Pradesh,India,474471,man-682289
+MA-MA-87116,Management,Coimbatore,Tamil Nadu,India,437984,man-560282
+IT-NE-51597,IT and Technology,Visakhapatnam,Andhra Pradesh,India,499536,man-729348
+IT-FR-77114,IT and Technology,Indore,Madhya Pradesh,India,367500,man-582076
+IT-DA-11952,IT and Technology,Mumbai,Maharashtra,India,202426,man-730258
+MA-GE-20530,Management,Mumbai,Maharashtra,India,376429,man-701384
+IT-CY-16164,IT and Technology,Kolkata,West Bengal,India,247373,man-284595
+IT-CY-96461,IT and Technology,Kochi,Kerala,India,393482,man-538850
+MA-PR-93522,Management,Delhi,Delhi,India,283558,man-343319
+IT-CY-16265,IT and Technology,Nagpur,Maharashtra,India,164567,man-558043
+MA-PR-91698,Management,Bengaluru,Karnataka,India,458455,man-185337
+IT-SY-69760,IT and Technology,Nagpur,Maharashtra,India,460223,man-376078
+MA-OP-62392,Management,Lucknow,Uttar Pradesh,India,238215,man-949068
+IT-CY-49275,IT and Technology,Noida,Uttar Pradesh,India,248110,man-665757
+IT-SY-88640,IT and Technology,Delhi,Delhi,India,266961,man-242697
+IT-NE-72716,IT and Technology,Mumbai,Maharashtra,India,423223,man-358710
+MA-CU-43884,Management,Kochi,Kerala,India,232002,man-108191
+IT-NE-46555,IT and Technology,Lucknow,Uttar Pradesh,India,303191,man-534430
+IT-DA-66066,IT and Technology,Ahmedabad,Gujarat,India,169234,man-630710
+IT-DA-54615,IT and Technology,Bhopal,Madhya Pradesh,India,342793,man-663452
+MA-PR-62747,Management,Pune,Maharashtra,India,210809,man-221667
+MA-GE-35806,Management,Ahmedabad,Gujarat,India,237458,man-429183
+IT-NE-70661,IT and Technology,Gurgaon,Haryana,India,245179,man-612623
+IT-CL-58859,IT and Technology,Noida,Uttar Pradesh,India,248024,man-752997
+MA-FI-59839,Management,Gurgaon,Haryana,India,181381,man-126851
+MA-IT-35504,Management,Jaipur,Rajasthan,India,464686,man-483258
+IT-IT-42445,IT and Technology,Visakhapatnam,Andhra Pradesh,India,374531,man-521679
+IT-SO-61027,IT and Technology,Nagpur,Maharashtra,India,428553,man-887768
+MA-PR-14224,Management,Chandigarh,Chandigarh,India,391065,man-560045
+IT-SY-19120,IT and Technology,Bengaluru,Karnataka,India,220192,man-989626
+MA-MA-36587,Management,Mumbai,Maharashtra,India,460788,man-472719
+IT-DE-73619,IT and Technology,Jaipur,Rajasthan,India,371618,man-507554
+MA-MA-45785,Management,Mumbai,Maharashtra,India,150343,man-716862
+IT-FR-77769,IT and Technology,Noida,Uttar Pradesh,India,254595,man-833373
+IT-SY-18499,IT and Technology,Gurgaon,Haryana,India,258859,man-267006
+IT-IT-29018,IT and Technology,Jaipur,Rajasthan,India,114748,man-540718
+MA-OP-97413,Management,Pune,Maharashtra,India,427501,man-167583
+MA-IT-63856,Management,Jaipur,Rajasthan,India,276719,man-208083
+IT-SO-16132,IT and Technology,Gurgaon,Haryana,India,353674,man-235328
+IT-DE-37801,IT and Technology,Lucknow,Uttar Pradesh,India,246218,man-895506
+MA-IT-30431,Management,Pune,Maharashtra,India,162560,man-168231
+MA-GE-75607,Management,Chandigarh,Chandigarh,India,237455,man-557717
+IT-NE-46009,IT and Technology,Chennai,Tamil Nadu,India,305470,man-985522
+MA-MA-38957,Management,Indore,Madhya Pradesh,India,498058,man-346010
+MA-PR-41144,Management,Kolkata,West Bengal,India,436886,man-737222
+IT-CY-53235,IT and Technology,Gurgaon,Haryana,India,185631,man-644422
+IT-NE-41098,IT and Technology,Nagpur,Maharashtra,India,418141,man-216615
+IT-IT-14773,IT and Technology,Kochi,Kerala,India,100802,man-767732
+IT-NE-63416,IT and Technology,Visakhapatnam,Andhra Pradesh,India,469277,man-617912
+IT-DE-84581,IT and Technology,Delhi,Delhi,India,319716,man-800299
+MA-CU-79914,Management,Bengaluru,Karnataka,India,204662,man-968291
+MA-SA-60510,Management,Kolkata,West Bengal,India,458771,man-934466
+IT-CY-30267,IT and Technology,Nagpur,Maharashtra,India,276366,man-440591
+MA-CU-50035,Management,Coimbatore,Tamil Nadu,India,473687,man-667437
+IT-CL-16572,IT and Technology,Lucknow,Uttar Pradesh,India,444019,man-945711
+MA-FI-74800,Management,Pune,Maharashtra,India,412072,man-663051
+IT-CL-72023,IT and Technology,Vadodara,Gujarat,India,249357,man-962823
+IT-DA-22183,IT and Technology,Bengaluru,Karnataka,India,497144,man-726204
+MA-PR-29993,Management,Noida,Uttar Pradesh,India,226780,man-280845
+IT-SO-59058,IT and Technology,Ahmedabad,Gujarat,India,396279,man-639436
+IT-NE-39195,IT and Technology,Nagpur,Maharashtra,India,103470,man-708629
+IT-CY-86040,IT and Technology,Hyderabad,Telangana,India,423471,man-560568
+IT-IT-28814,IT and Technology,Visakhapatnam,Andhra Pradesh,India,267142,man-696260
+IT-SO-52415,IT and Technology,Pune,Maharashtra,India,287101,man-620017
+MA-GE-89083,Management,Nagpur,Maharashtra,India,300595,man-601452
+MA-SA-97533,Management,Lucknow,Uttar Pradesh,India,402318,man-593794
+MA-SA-72963,Management,Chandigarh,Chandigarh,India,381596,man-756820
+IT-DE-76292,IT and Technology,Jaipur,Rajasthan,India,131073,man-853716
+MA-HU-65249,Management,Hyderabad,Telangana,India,426468,man-329170
+IT-CY-58698,IT and Technology,Kochi,Kerala,India,325229,man-918541
+MA-PR-42913,Management,Lucknow,Uttar Pradesh,India,122571,man-661990
+MA-HU-72415,Management,Noida,Uttar Pradesh,India,489328,man-336375
+IT-DA-15016,IT and Technology,Indore,Madhya Pradesh,India,223501,man-898521
+MA-GE-79004,Management,Bengaluru,Karnataka,India,367085,man-673768
+IT-SO-77946,IT and Technology,Chennai,Tamil Nadu,India,391156,man-354017
+IT-NE-17318,IT and Technology,Jaipur,Rajasthan,India,289994,man-602607
+IT-DA-99084,IT and Technology,Chennai,Tamil Nadu,India,346466,man-113052
+IT-SO-53069,IT and Technology,Noida,Uttar Pradesh,India,187192,man-132122
+IT-CY-52119,IT and Technology,Pune,Maharashtra,India,484760,man-178770
+MA-OP-90878,Management,Lucknow,Uttar Pradesh,India,360771,man-660394
+IT-NE-14806,IT and Technology,Chennai,Tamil Nadu,India,273616,man-749483
+IT-CL-25270,IT and Technology,Gurgaon,Haryana,India,272962,man-311321
+MA-CU-68206,Management,Chandigarh,Chandigarh,India,477808,man-555218
+IT-DA-31249,IT and Technology,Pune,Maharashtra,India,176321,man-661689
+MA-GE-76150,Management,Jaipur,Rajasthan,India,216991,man-477517
+MA-PR-90278,Management,Mumbai,Maharashtra,India,418100,man-894702
+MA-GE-29420,Management,Coimbatore,Tamil Nadu,India,310172,man-849956
+MA-CU-84490,Management,Bengaluru,Karnataka,India,422949,man-109927
+MA-PR-13654,Management,Chennai,Tamil Nadu,India,306046,man-381428
+MA-CU-95560,Management,Nagpur,Maharashtra,India,426687,man-589305
+IT-CY-42543,IT and Technology,Delhi,Delhi,India,399551,man-241522
+IT-SO-78190,IT and Technology,Indore,Madhya Pradesh,India,340866,man-743647
+MA-MA-60982,Management,Gurgaon,Haryana,India,156244,man-755856
+IT-CL-50457,IT and Technology,Delhi,Delhi,India,116400,man-103397
+IT-CY-22379,IT and Technology,Vadodara,Gujarat,India,455025,man-811023
+MA-SA-99079,Management,Pune,Maharashtra,India,465777,man-289884
+IT-FR-77760,IT and Technology,Noida,Uttar Pradesh,India,186269,man-730114
+IT-CY-90127,IT and Technology,Nagpur,Maharashtra,India,129909,man-954842
+IT-DA-85094,IT and Technology,Vadodara,Gujarat,India,386354,man-863544
+MA-SA-80730,Management,Mumbai,Maharashtra,India,492344,man-475433
+IT-FR-33236,IT and Technology,Indore,Madhya Pradesh,India,240215,man-276137
+IT-SY-77111,IT and Technology,Bengaluru,Karnataka,India,384094,man-974993
+MA-SA-72529,Management,Bhopal,Madhya Pradesh,India,356287,man-702398
+MA-GE-47311,Management,Kolkata,West Bengal,India,451311,man-751328
+MA-SA-42776,Management,Hyderabad,Telangana,India,364427,man-682490
+IT-DA-43251,IT and Technology,Nagpur,Maharashtra,India,254791,man-789299
+IT-FR-30143,IT and Technology,Vadodara,Gujarat,India,166244,man-926697
+IT-CL-55045,IT and Technology,Chennai,Tamil Nadu,India,136278,man-995348
+IT-DE-67685,IT and Technology,Mumbai,Maharashtra,India,347399,man-128176
+IT-FR-39353,IT and Technology,Bhopal,Madhya Pradesh,India,204181,man-134433
+MA-OP-20840,Management,Ahmedabad,Gujarat,India,198089,man-603221
+IT-FR-36958,IT and Technology,Chennai,Tamil Nadu,India,104884,man-535544
+IT-DE-34709,IT and Technology,Bengaluru,Karnataka,India,380650,man-705369
+IT-DA-56004,IT and Technology,Delhi,Delhi,India,280109,man-680052
+MA-HU-71248,Management,Kochi,Kerala,India,197068,man-648386
+IT-CY-96863,IT and Technology,Visakhapatnam,Andhra Pradesh,India,433634,man-717519
+IT-DA-82675,IT and Technology,Coimbatore,Tamil Nadu,India,173338,man-374744
+MA-CU-39169,Management,Delhi,Delhi,India,195853,man-660898
+IT-CL-44034,IT and Technology,Bhopal,Madhya Pradesh,India,189236,man-486394
+MA-CU-51744,Management,Mumbai,Maharashtra,India,439816,man-752759
+IT-FR-95428,IT and Technology,Delhi,Delhi,India,388264,man-499942
+MA-SA-63393,Management,Nagpur,Maharashtra,India,122956,man-989520
+MA-SA-17201,Management,Noida,Uttar Pradesh,India,480848,man-716620
+IT-DA-99326,IT and Technology,Kochi,Kerala,India,145693,man-963330
+IT-CL-53590,IT and Technology,Chandigarh,Chandigarh,India,368247,man-616210
+MA-HU-25439,Management,Mumbai,Maharashtra,India,145215,man-135443
+MA-PR-70507,Management,Nagpur,Maharashtra,India,201225,man-394590
+IT-SY-35646,IT and Technology,Ahmedabad,Gujarat,India,105432,man-903023
+IT-IT-79358,IT and Technology,Visakhapatnam,Andhra Pradesh,India,361356,man-555201
+IT-DA-86217,IT and Technology,Coimbatore,Tamil Nadu,India,292597,man-693057
+MA-GE-40346,Management,Noida,Uttar Pradesh,India,369349,man-719399
+IT-CY-27011,IT and Technology,Kolkata,West Bengal,India,477029,man-398898
+IT-IT-58346,IT and Technology,Gurgaon,Haryana,India,120883,man-898805
+IT-FR-18844,IT and Technology,Noida,Uttar Pradesh,India,397614,man-616078
+MA-IT-66872,Management,Vadodara,Gujarat,India,271442,man-384546
+MA-GE-33731,Management,Ahmedabad,Gujarat,India,193149,man-188326
+IT-CL-32853,IT and Technology,Nagpur,Maharashtra,India,175575,man-518751
+MA-PR-95844,Management,Kolkata,West Bengal,India,309430,man-858488
+MA-PR-80468,Management,Lucknow,Uttar Pradesh,India,217844,man-742337
+IT-SO-67106,IT and Technology,Bengaluru,Karnataka,India,118329,man-371396
+IT-DA-15104,IT and Technology,Pune,Maharashtra,India,236956,man-990612
+MA-SA-16125,Management,Bhopal,Madhya Pradesh,India,192195,man-511796
+IT-CL-87499,IT and Technology,Delhi,Delhi,India,326673,man-169172
+IT-CL-27188,IT and Technology,Jaipur,Rajasthan,India,203983,man-749874
+IT-SY-69711,IT and Technology,Ahmedabad,Gujarat,India,215625,man-824400
+IT-NE-19320,IT and Technology,Pune,Maharashtra,India,281409,man-392400
+MA-GE-76508,Management,Gurgaon,Haryana,India,332562,man-915550
+MA-PR-49950,Management,Coimbatore,Tamil Nadu,India,170201,man-244170
+MA-FI-58158,Management,Hyderabad,Telangana,India,214652,man-453933
+MA-IT-12734,Management,Mumbai,Maharashtra,India,200106,man-187006
+MA-FI-34148,Management,Mumbai,Maharashtra,India,265133,man-727904
+MA-PR-62329,Management,Nagpur,Maharashtra,India,487770,man-329958
+IT-IT-73117,IT and Technology,Mumbai,Maharashtra,India,388660,man-435850
+MA-HU-56657,Management,Nagpur,Maharashtra,India,128385,man-809550
+IT-CL-83037,IT and Technology,Bhopal,Madhya Pradesh,India,227914,man-765742
+MA-GE-64664,Management,Jaipur,Rajasthan,India,185628,man-317160
+MA-FI-23123,Management,Vadodara,Gujarat,India,126607,man-322583
+MA-SA-59941,Management,Kolkata,West Bengal,India,433199,man-751395
+MA-SA-59544,Management,Indore,Madhya Pradesh,India,194538,man-904970
+MA-CU-85185,Management,Indore,Madhya Pradesh,India,218323,man-562329
+MA-HU-24337,Management,Delhi,Delhi,India,167670,man-898140
+IT-SO-83223,IT and Technology,Mumbai,Maharashtra,India,139785,man-709055
+MA-CU-53508,Management,Kochi,Kerala,India,424995,man-631700
+MA-IT-23786,Management,Visakhapatnam,Andhra Pradesh,India,132826,man-552343
+IT-NE-39632,IT and Technology,Chennai,Tamil Nadu,India,486632,man-298619
+IT-IT-22148,IT and Technology,Chennai,Tamil Nadu,India,268982,man-101421
+MA-OP-86227,Management,Vadodara,Gujarat,India,408088,man-575597
+IT-CL-90907,IT and Technology,Jaipur,Rajasthan,India,478010,man-236428
+IT-NE-87148,IT and Technology,Hyderabad,Telangana,India,234202,man-485424
+MA-SA-89483,Management,Kochi,Kerala,India,309543,man-113446
+MA-HU-85851,Management,Jaipur,Rajasthan,India,193541,man-489179
+IT-DE-37314,IT and Technology,Bengaluru,Karnataka,India,464294,man-396978
+IT-SO-49582,IT and Technology,Chennai,Tamil Nadu,India,386734,man-689737
+MA-HU-96024,Management,Kochi,Kerala,India,208167,man-222190
+MA-MA-66771,Management,Noida,Uttar Pradesh,India,488722,man-901644
+IT-DE-35901,IT and Technology,Pune,Maharashtra,India,392433,man-195765
+MA-FI-84987,Management,Nagpur,Maharashtra,India,145792,man-449286
+MA-HU-50413,Management,Kochi,Kerala,India,281923,man-984912
+IT-IT-75986,IT and Technology,Visakhapatnam,Andhra Pradesh,India,490769,man-489733
+IT-FR-62534,IT and Technology,Pune,Maharashtra,India,349899,man-643500
+MA-GE-58751,Management,Noida,Uttar Pradesh,India,364779,man-675013
+MA-PR-98321,Management,Kolkata,West Bengal,India,124625,man-631853
+IT-IT-19993,IT and Technology,Lucknow,Uttar Pradesh,India,452593,man-189719
+MA-GE-59753,Management,Chennai,Tamil Nadu,India,366324,man-893082
+IT-IT-80816,IT and Technology,Bhopal,Madhya Pradesh,India,266771,man-578318
+MA-FI-48083,Management,Gurgaon,Haryana,India,415809,man-883379
+MA-MA-60894,Management,Nagpur,Maharashtra,India,217981,man-543042
+MA-IT-98701,Management,Vadodara,Gujarat,India,138635,man-418846
+IT-DA-22165,IT and Technology,Noida,Uttar Pradesh,India,136321,man-223036
+MA-SA-71729,Management,Chandigarh,Chandigarh,India,302072,man-896409
+MA-PR-54960,Management,Pune,Maharashtra,India,186456,man-675563
+MA-FI-47934,Management,Gurgaon,Haryana,India,125063,man-289029
+MA-HU-69292,Management,Ahmedabad,Gujarat,India,397676,man-721641
+MA-OP-88525,Management,Pune,Maharashtra,India,485629,man-769955
+MA-OP-61121,Management,Kolkata,West Bengal,India,454754,man-249149
+MA-FI-31703,Management,Pune,Maharashtra,India,129852,man-187047
+IT-NE-92812,IT and Technology,Delhi,Delhi,India,189634,man-194933
+MA-FI-85950,Management,Nagpur,Maharashtra,India,347699,man-540093
+IT-SO-97606,IT and Technology,Lucknow,Uttar Pradesh,India,261102,man-340712
+MA-MA-42445,Management,Gurgaon,Haryana,India,190359,man-893125
+IT-DA-26176,IT and Technology,Lucknow,Uttar Pradesh,India,128197,man-546490
+IT-CL-20901,IT and Technology,Bhopal,Madhya Pradesh,India,122094,man-312747
+IT-FR-57270,IT and Technology,Kochi,Kerala,India,449768,man-827774
+IT-DA-10776,IT and Technology,Jaipur,Rajasthan,India,433849,man-747681
+IT-IT-27084,IT and Technology,Coimbatore,Tamil Nadu,India,492314,man-297298
+IT-SO-65636,IT and Technology,Coimbatore,Tamil Nadu,India,243080,man-489831
+MA-MA-86463,Management,Lucknow,Uttar Pradesh,India,430220,man-824553
+MA-PR-32241,Management,Visakhapatnam,Andhra Pradesh,India,226222,man-177644
+MA-OP-40550,Management,Delhi,Delhi,India,484239,man-333857
+IT-DA-13102,IT and Technology,Chandigarh,Chandigarh,India,375838,man-958187
+IT-SO-59864,IT and Technology,Chandigarh,Chandigarh,India,283799,man-486386
+MA-IT-74648,Management,Hyderabad,Telangana,India,322099,man-652712
+MA-PR-10988,Management,Jaipur,Rajasthan,India,380951,man-127907
+IT-CL-49713,IT and Technology,Vadodara,Gujarat,India,144531,man-581210
+MA-HU-20300,Management,Chandigarh,Chandigarh,India,421612,man-904426
+IT-DA-88440,IT and Technology,Vadodara,Gujarat,India,241746,man-175570
+IT-FR-82368,IT and Technology,Visakhapatnam,Andhra Pradesh,India,150493,man-927408
+MA-GE-98983,Management,Coimbatore,Tamil Nadu,India,140956,man-191203
+IT-FR-68667,IT and Technology,Kochi,Kerala,India,240280,man-407369
+IT-FR-30900,IT and Technology,Delhi,Delhi,India,391668,man-222249
+IT-DA-73182,IT and Technology,Kolkata,West Bengal,India,456208,man-399752
+IT-DE-15871,IT and Technology,Chandigarh,Chandigarh,India,400733,man-678966
+MA-PR-62132,Management,Hyderabad,Telangana,India,213364,man-110494
+MA-IT-85686,Management,Visakhapatnam,Andhra Pradesh,India,203824,man-629397
+MA-CU-22193,Management,Visakhapatnam,Andhra Pradesh,India,231618,man-790870
+IT-SO-11135,IT and Technology,Bhopal,Madhya Pradesh,India,286823,man-548340
+MA-MA-62699,Management,Vadodara,Gujarat,India,155935,man-402577
+MA-IT-92331,Management,Visakhapatnam,Andhra Pradesh,India,236833,man-300281
+MA-IT-63787,Management,Hyderabad,Telangana,India,171867,man-955714
+IT-SO-82584,IT and Technology,Kolkata,West Bengal,India,486016,man-316285
+IT-IT-52992,IT and Technology,Bhopal,Madhya Pradesh,India,141259,man-664287
+IT-SO-34511,IT and Technology,Kochi,Kerala,India,486659,man-819524
+MA-PR-90474,Management,Kolkata,West Bengal,India,328915,man-969991
+IT-NE-33522,IT and Technology,Gurgaon,Haryana,India,253143,man-320032
+IT-CL-55521,IT and Technology,Delhi,Delhi,India,285751,man-456291
+MA-PR-21524,Management,Nagpur,Maharashtra,India,211581,man-289093
+IT-NE-69354,IT and Technology,Nagpur,Maharashtra,India,499781,man-855277
+IT-CY-20350,IT and Technology,Mumbai,Maharashtra,India,487080,man-593516
+IT-DA-35184,IT and Technology,Indore,Madhya Pradesh,India,203697,man-616177
+IT-DA-89380,IT and Technology,Bhopal,Madhya Pradesh,India,278589,man-230248
+IT-CL-12025,IT and Technology,Delhi,Delhi,India,271274,man-969526
+MA-CU-23512,Management,Jaipur,Rajasthan,India,350409,man-864536
+IT-CY-60348,IT and Technology,Ahmedabad,Gujarat,India,222910,man-425785
+MA-IT-13427,Management,Noida,Uttar Pradesh,India,181037,man-852378
+MA-SA-97920,Management,Delhi,Delhi,India,411161,man-669701
+MA-MA-33701,Management,Visakhapatnam,Andhra Pradesh,India,174546,man-162996
+IT-IT-55750,IT and Technology,Bengaluru,Karnataka,India,227836,man-286670
+MA-OP-45600,Management,Vadodara,Gujarat,India,294053,man-856749
+MA-HU-17937,Management,Pune,Maharashtra,India,246039,man-915933
+IT-IT-66516,IT and Technology,Chennai,Tamil Nadu,India,478625,man-943246
+IT-CY-57283,IT and Technology,Jaipur,Rajasthan,India,339222,man-117591
+MA-HU-22886,Management,Visakhapatnam,Andhra Pradesh,India,386984,man-758276
+MA-PR-19478,Management,Gurgaon,Haryana,India,497551,man-997482
+MA-HU-74598,Management,Gurgaon,Haryana,India,268162,man-250709
+MA-FI-44164,Management,Hyderabad,Telangana,India,140123,man-213048
+IT-DA-15842,IT and Technology,Noida,Uttar Pradesh,India,494666,man-592198
+IT-CY-96072,IT and Technology,Chennai,Tamil Nadu,India,391029,man-887881
+MA-OP-10720,Management,Kolkata,West Bengal,India,121846,man-834698
+IT-FR-48477,IT and Technology,Jaipur,Rajasthan,India,254731,man-940686
+MA-GE-14378,Management,Chandigarh,Chandigarh,India,255707,man-530450
+MA-OP-34079,Management,Noida,Uttar Pradesh,India,168719,man-222399
+IT-CL-24838,IT and Technology,Gurgaon,Haryana,India,358735,man-996361
+IT-FR-81061,IT and Technology,Pune,Maharashtra,India,440798,man-427239
+IT-IT-37230,IT and Technology,Kochi,Kerala,India,315208,man-305715
+MA-FI-60335,Management,Chennai,Tamil Nadu,India,381838,man-925683
+MA-PR-88905,Management,Ahmedabad,Gujarat,India,360762,man-854773
+MA-OP-89613,Management,Kolkata,West Bengal,India,177001,man-931988
+IT-DA-10073,IT and Technology,Bengaluru,Karnataka,India,421737,man-573244
+IT-SY-95927,IT and Technology,Chandigarh,Chandigarh,India,428432,man-917651
+IT-SY-19707,IT and Technology,Chennai,Tamil Nadu,India,474261,man-165078
+IT-SY-18190,IT and Technology,Noida,Uttar Pradesh,India,407983,man-518349
+IT-NE-88191,IT and Technology,Lucknow,Uttar Pradesh,India,231051,man-434931
+IT-SO-15479,IT and Technology,Mumbai,Maharashtra,India,228330,man-688642
+MA-SA-38450,Management,Jaipur,Rajasthan,India,258133,man-301192
+MA-GE-94701,Management,Noida,Uttar Pradesh,India,297907,man-794794
+MA-CU-80063,Management,Kolkata,West Bengal,India,435098,man-684787
+IT-SY-65468,IT and Technology,Vadodara,Gujarat,India,389227,man-924941
+MA-OP-23824,Management,Coimbatore,Tamil Nadu,India,152214,man-273604
+IT-IT-85834,IT and Technology,Vadodara,Gujarat,India,403871,man-249238
+IT-NE-35406,IT and Technology,Kochi,Kerala,India,106468,man-877809
+MA-PR-79193,Management,Pune,Maharashtra,India,323376,man-865859
+IT-DA-95664,IT and Technology,Vadodara,Gujarat,India,366835,man-177562
+IT-CY-81003,IT and Technology,Visakhapatnam,Andhra Pradesh,India,388490,man-695993
+IT-CY-13863,IT and Technology,Coimbatore,Tamil Nadu,India,475965,man-109223
+MA-PR-88833,Management,Noida,Uttar Pradesh,India,165547,man-467129
+MA-FI-70007,Management,Jaipur,Rajasthan,India,124257,man-109864
+IT-IT-24093,IT and Technology,Vadodara,Gujarat,India,438526,man-508763
+MA-SA-15947,Management,Chandigarh,Chandigarh,India,284971,man-720750
+MA-GE-63836,Management,Chandigarh,Chandigarh,India,306420,man-949321
+IT-DA-50641,IT and Technology,Hyderabad,Telangana,India,296099,man-369155
+IT-SY-55554,IT and Technology,Visakhapatnam,Andhra Pradesh,India,464488,man-433462
+MA-MA-37647,Management,Jaipur,Rajasthan,India,146299,man-451328
+IT-SO-80499,IT and Technology,Mumbai,Maharashtra,India,269159,man-508044
+IT-DA-54478,IT and Technology,Gurgaon,Haryana,India,165455,man-592720
+IT-DA-79650,IT and Technology,Vadodara,Gujarat,India,379973,man-103588
+MA-SA-62226,Management,Visakhapatnam,Andhra Pradesh,India,421738,man-581740
+MA-PR-93020,Management,Bengaluru,Karnataka,India,244408,man-941409
+IT-IT-19305,IT and Technology,Vadodara,Gujarat,India,417425,man-973598
+IT-DE-94559,IT and Technology,Bhopal,Madhya Pradesh,India,374663,man-289386
+MA-PR-60459,Management,Gurgaon,Haryana,India,202651,man-192662
+MA-HU-69730,Management,Vadodara,Gujarat,India,269604,man-527428
+IT-CY-76578,IT and Technology,Kochi,Kerala,India,449810,man-805976
+IT-DE-17142,IT and Technology,Visakhapatnam,Andhra Pradesh,India,342174,man-174710
+IT-CY-62855,IT and Technology,Kolkata,West Bengal,India,279806,man-131833
+IT-CY-53671,IT and Technology,Ahmedabad,Gujarat,India,103149,man-135005
+MA-GE-44429,Management,Kochi,Kerala,India,225068,man-159494
+IT-CL-73088,IT and Technology,Ahmedabad,Gujarat,India,352131,man-186167
+IT-NE-85537,IT and Technology,Chennai,Tamil Nadu,India,163450,man-202400
+IT-CL-97323,IT and Technology,Ahmedabad,Gujarat,India,458270,man-100600
+MA-PR-12942,Management,Noida,Uttar Pradesh,India,160279,man-859791
+IT-NE-18133,IT and Technology,Jaipur,Rajasthan,India,239712,man-507305
+MA-OP-31996,Management,Kolkata,West Bengal,India,304373,man-721945
+MA-SA-82971,Management,Pune,Maharashtra,India,301878,man-113706
+IT-CY-96167,IT and Technology,Lucknow,Uttar Pradesh,India,451590,man-579955
+IT-DE-83429,IT and Technology,Nagpur,Maharashtra,India,329553,man-767210
+IT-NE-91949,IT and Technology,Chandigarh,Chandigarh,India,366647,man-359023
+MA-CU-72647,Management,Nagpur,Maharashtra,India,143832,man-498734
+MA-HU-60355,Management,Chennai,Tamil Nadu,India,222446,man-944105
+IT-SY-56450,IT and Technology,Noida,Uttar Pradesh,India,286185,man-213389
+IT-CL-73019,IT and Technology,Noida,Uttar Pradesh,India,443351,man-794989
+MA-GE-48382,Management,Kolkata,West Bengal,India,157214,man-833333
+MA-FI-83610,Management,Noida,Uttar Pradesh,India,486021,man-737672
+IT-SY-21239,IT and Technology,Kolkata,West Bengal,India,444212,man-870256
+IT-CY-81884,IT and Technology,Ahmedabad,Gujarat,India,215531,man-685262
+IT-SO-11813,IT and Technology,Jaipur,Rajasthan,India,369006,man-212451
+MA-PR-74862,Management,Indore,Madhya Pradesh,India,276332,man-920166
+MA-GE-91888,Management,Visakhapatnam,Andhra Pradesh,India,229624,man-976423
+IT-IT-17538,IT and Technology,Chennai,Tamil Nadu,India,419410,man-601474
+IT-DE-22541,IT and Technology,Pune,Maharashtra,India,276386,man-427473
+IT-IT-11792,IT and Technology,Chennai,Tamil Nadu,India,439173,man-329064
+MA-FI-98637,Management,Kolkata,West Bengal,India,436291,man-522570
+MA-CU-67283,Management,Lucknow,Uttar Pradesh,India,232719,man-214468
+IT-DA-33312,IT and Technology,Lucknow,Uttar Pradesh,India,113549,man-274814
+MA-HU-97911,Management,Chandigarh,Chandigarh,India,490584,man-732869
+IT-CY-33073,IT and Technology,Coimbatore,Tamil Nadu,India,158834,man-153907
+IT-SY-98503,IT and Technology,Delhi,Delhi,India,350792,man-308925
+MA-SA-48451,Management,Bhopal,Madhya Pradesh,India,226441,man-588824
+IT-DA-44094,IT and Technology,Nagpur,Maharashtra,India,186624,man-586652
+MA-CU-26748,Management,Hyderabad,Telangana,India,155220,man-786556
+MA-GE-78885,Management,Chennai,Tamil Nadu,India,405731,man-774809
+MA-SA-91176,Management,Kolkata,West Bengal,India,318529,man-543656
+IT-CL-91985,IT and Technology,Jaipur,Rajasthan,India,215232,man-287431
+IT-SY-80804,IT and Technology,Bengaluru,Karnataka,India,330803,man-203295
+IT-DA-56100,IT and Technology,Indore,Madhya Pradesh,India,410123,man-743250
+IT-SY-68345,IT and Technology,Indore,Madhya Pradesh,India,281692,man-169297
+IT-DE-66316,IT and Technology,Gurgaon,Haryana,India,233476,man-978891
+MA-PR-47536,Management,Kochi,Kerala,India,474307,man-892452
+MA-CU-56863,Management,Mumbai,Maharashtra,India,255819,man-246525
+MA-SA-25589,Management,Mumbai,Maharashtra,India,285778,man-684529
+IT-DE-40289,IT and Technology,Visakhapatnam,Andhra Pradesh,India,264565,man-842352
+MA-PR-57345,Management,Kochi,Kerala,India,252326,man-948212
+MA-PR-37192,Management,Bengaluru,Karnataka,India,342783,man-975392
+MA-PR-16372,Management,Chennai,Tamil Nadu,India,259963,man-189432
+MA-HU-17497,Management,Bengaluru,Karnataka,India,157259,man-670920
+IT-SY-31751,IT and Technology,Gurgaon,Haryana,India,232778,man-919773
+MA-GE-82009,Management,Indore,Madhya Pradesh,India,135047,man-133085
+IT-CL-53934,IT and Technology,Chennai,Tamil Nadu,India,357625,man-420631
+MA-FI-35549,Management,Chennai,Tamil Nadu,India,197576,man-227831
+IT-IT-63834,IT and Technology,Kochi,Kerala,India,205377,man-896334
+MA-FI-60796,Management,Noida,Uttar Pradesh,India,309150,man-483096
+IT-CY-29061,IT and Technology,Noida,Uttar Pradesh,India,278146,man-431041
+MA-GE-87041,Management,Chandigarh,Chandigarh,India,335403,man-919495
+MA-SA-73909,Management,Kolkata,West Bengal,India,341127,man-728798
+IT-IT-93616,IT and Technology,Delhi,Delhi,India,214231,man-848852
+IT-NE-54967,IT and Technology,Chandigarh,Chandigarh,India,172794,man-944840
+IT-DA-51819,IT and Technology,Bengaluru,Karnataka,India,431088,man-393959
+IT-SO-55938,IT and Technology,Bengaluru,Karnataka,India,298948,man-963174
+MA-PR-43855,Management,Hyderabad,Telangana,India,159054,man-638364
+IT-DE-82258,IT and Technology,Gurgaon,Haryana,India,189000,man-880016
+MA-SA-42382,Management,Chandigarh,Chandigarh,India,354771,man-373175
+MA-GE-48514,Management,Bengaluru,Karnataka,India,142860,man-977293
+IT-DE-31777,IT and Technology,Jaipur,Rajasthan,India,378454,man-102500
+MA-MA-93767,Management,Noida,Uttar Pradesh,India,495345,man-326898
+IT-DA-48690,IT and Technology,Hyderabad,Telangana,India,346873,man-379521
+IT-SO-47556,IT and Technology,Bengaluru,Karnataka,India,346527,man-817048
+IT-IT-70515,IT and Technology,Ahmedabad,Gujarat,India,312241,man-279658
+IT-NE-37771,IT and Technology,Kochi,Kerala,India,386879,man-828189
+IT-SY-42144,IT and Technology,Lucknow,Uttar Pradesh,India,140544,man-401185
+MA-OP-52418,Management,Nagpur,Maharashtra,India,404049,man-102756
+MA-PR-57096,Management,Chennai,Tamil Nadu,India,122212,man-453569
+IT-NE-79668,IT and Technology,Mumbai,Maharashtra,India,330664,man-958840
+MA-SA-50265,Management,Chennai,Tamil Nadu,India,353091,man-806264
+IT-CY-83223,IT and Technology,Coimbatore,Tamil Nadu,India,151590,man-402459
+MA-SA-55346,Management,Coimbatore,Tamil Nadu,India,138348,man-530516
+IT-CL-44161,IT and Technology,Visakhapatnam,Andhra Pradesh,India,133626,man-948435
+MA-PR-65972,Management,Pune,Maharashtra,India,302288,man-256218
+MA-IT-35519,Management,Coimbatore,Tamil Nadu,India,454501,man-949115
+MA-OP-19554,Management,Vadodara,Gujarat,India,443683,man-536183
+IT-CY-33795,IT and Technology,Jaipur,Rajasthan,India,244820,man-551380
+MA-MA-20826,Management,Coimbatore,Tamil Nadu,India,333565,man-560794
+MA-PR-84012,Management,Visakhapatnam,Andhra Pradesh,India,493108,man-470314
+MA-PR-91877,Management,Kolkata,West Bengal,India,372910,man-857412
+MA-FI-49694,Management,Hyderabad,Telangana,India,155471,man-910632
+IT-DA-69632,IT and Technology,Nagpur,Maharashtra,India,227370,man-314181
+MA-PR-21343,Management,Bhopal,Madhya Pradesh,India,312427,man-107154
+MA-MA-59498,Management,Pune,Maharashtra,India,463659,man-801491
+MA-OP-35802,Management,Mumbai,Maharashtra,India,410775,man-928194
+MA-IT-41052,Management,Kochi,Kerala,India,174130,man-909835
+IT-NE-62918,IT and Technology,Jaipur,Rajasthan,India,430292,man-382071
+MA-OP-65879,Management,Visakhapatnam,Andhra Pradesh,India,368636,man-478450
+MA-HU-29874,Management,Hyderabad,Telangana,India,214115,man-184670
+IT-DA-93381,IT and Technology,Jaipur,Rajasthan,India,311903,man-424256
+IT-DA-36762,IT and Technology,Kolkata,West Bengal,India,140812,man-317194
+MA-IT-67390,Management,Mumbai,Maharashtra,India,300801,man-407364
+IT-DE-53320,IT and Technology,Ahmedabad,Gujarat,India,370235,man-811599
+IT-CL-28730,IT and Technology,Noida,Uttar Pradesh,India,215449,man-589147
+MA-PR-88806,Management,Chandigarh,Chandigarh,India,322386,man-776775
+IT-CL-15313,IT and Technology,Kochi,Kerala,India,275922,man-880123
+MA-PR-48508,Management,Vadodara,Gujarat,India,214723,man-456421
+IT-CL-16095,IT and Technology,Coimbatore,Tamil Nadu,India,402722,man-883453
+MA-GE-17174,Management,Bengaluru,Karnataka,India,452068,man-715404
+MA-IT-80840,Management,Pune,Maharashtra,India,118088,man-549964
+IT-DE-21607,IT and Technology,Chennai,Tamil Nadu,India,377555,man-570958
+IT-SY-10142,IT and Technology,Indore,Madhya Pradesh,India,417816,man-703883
+IT-DA-36095,IT and Technology,Indore,Madhya Pradesh,India,261658,man-405524
+MA-CU-65459,Management,Lucknow,Uttar Pradesh,India,111211,man-103767
+MA-PR-66025,Management,Pune,Maharashtra,India,249764,man-933849
+MA-SA-64150,Management,Pune,Maharashtra,India,223069,man-987488
+IT-DE-37476,IT and Technology,Pune,Maharashtra,India,298041,man-554558
+MA-GE-72754,Management,Lucknow,Uttar Pradesh,India,463362,man-207413
+MA-HU-17388,Management,Gurgaon,Haryana,India,238622,man-469557
+IT-FR-36677,IT and Technology,Coimbatore,Tamil Nadu,India,308470,man-820881
+IT-IT-68110,IT and Technology,Nagpur,Maharashtra,India,195356,man-317805
+MA-MA-62136,Management,Coimbatore,Tamil Nadu,India,118841,man-265330
+MA-SA-19167,Management,Gurgaon,Haryana,India,445238,man-232648
+MA-PR-37442,Management,Coimbatore,Tamil Nadu,India,451264,man-878508
+IT-CL-19921,IT and Technology,Ahmedabad,Gujarat,India,438513,man-231217
+MA-SA-14001,Management,Indore,Madhya Pradesh,India,499501,man-248968
+IT-DA-46899,IT and Technology,Bengaluru,Karnataka,India,282996,man-204417
+IT-SY-79400,IT and Technology,Chandigarh,Chandigarh,India,182414,man-978524
+MA-OP-48419,Management,Ahmedabad,Gujarat,India,265137,man-482853
+MA-SA-48920,Management,Pune,Maharashtra,India,282988,man-471946
+MA-IT-10124,Management,Bhopal,Madhya Pradesh,India,302783,man-922931
+MA-MA-48430,Management,Pune,Maharashtra,India,257956,man-465387
+MA-SA-99289,Management,Nagpur,Maharashtra,India,208218,man-844204
+MA-FI-64102,Management,Pune,Maharashtra,India,183970,man-786265
+IT-SY-29380,IT and Technology,Chennai,Tamil Nadu,India,299301,man-218358
+MA-PR-71038,Management,Hyderabad,Telangana,India,263453,man-315353
+MA-MA-91935,Management,Delhi,Delhi,India,426420,man-434868
+MA-IT-41021,Management,Ahmedabad,Gujarat,India,436859,man-782103
+IT-DA-36813,IT and Technology,Chandigarh,Chandigarh,India,343357,man-741128
+MA-SA-42973,Management,Mumbai,Maharashtra,India,471920,man-734289
+MA-PR-48990,Management,Coimbatore,Tamil Nadu,India,255062,man-482073
+IT-SO-28062,IT and Technology,Mumbai,Maharashtra,India,327065,man-459853
+IT-NE-41664,IT and Technology,Delhi,Delhi,India,302344,man-431003
+IT-IT-97354,IT and Technology,Vadodara,Gujarat,India,408805,man-832849
+MA-HU-73504,Management,Kolkata,West Bengal,India,337209,man-944316
+MA-MA-73552,Management,Pune,Maharashtra,India,394828,man-857671
+IT-FR-19453,IT and Technology,Coimbatore,Tamil Nadu,India,229672,man-768527
+MA-PR-45764,Management,Chandigarh,Chandigarh,India,498705,man-732915
+MA-PR-26217,Management,Chandigarh,Chandigarh,India,130028,man-514637
+IT-DA-14469,IT and Technology,Gurgaon,Haryana,India,212108,man-198040
+IT-DA-17931,IT and Technology,Pune,Maharashtra,India,296083,man-914420
+MA-SA-79631,Management,Coimbatore,Tamil Nadu,India,413348,man-910121
+IT-SY-33179,IT and Technology,Kolkata,West Bengal,India,393692,man-172813
+IT-CL-39353,IT and Technology,Mumbai,Maharashtra,India,268532,man-320853
+MA-PR-24328,Management,Ahmedabad,Gujarat,India,322133,man-309164
+MA-SA-91759,Management,Coimbatore,Tamil Nadu,India,209053,man-744246
+MA-FI-11022,Management,Vadodara,Gujarat,India,166756,man-826451
+IT-SY-89735,IT and Technology,Jaipur,Rajasthan,India,405471,man-975553
+IT-NE-45221,IT and Technology,Hyderabad,Telangana,India,181847,man-326774
+IT-NE-81756,IT and Technology,Jaipur,Rajasthan,India,139928,man-634168
+IT-SY-44405,IT and Technology,Kolkata,West Bengal,India,203315,man-863043
+IT-IT-77611,IT and Technology,Lucknow,Uttar Pradesh,India,156253,man-961214
+MA-SA-80600,Management,Bengaluru,Karnataka,India,153053,man-645372
+MA-SA-66822,Management,Indore,Madhya Pradesh,India,143452,man-404020
+IT-NE-72699,IT and Technology,Delhi,Delhi,India,167911,man-315325
+MA-PR-24981,Management,Indore,Madhya Pradesh,India,329925,man-721529
+MA-CU-14677,Management,Jaipur,Rajasthan,India,475942,man-664501
+IT-NE-99816,IT and Technology,Noida,Uttar Pradesh,India,210730,man-839896
+MA-SA-40244,Management,Bengaluru,Karnataka,India,228857,man-356054
+IT-NE-65190,IT and Technology,Kochi,Kerala,India,398459,man-307231
+IT-SY-12779,IT and Technology,Pune,Maharashtra,India,307090,man-530554
+MA-FI-98266,Management,Vadodara,Gujarat,India,143897,man-454989
+IT-DA-90112,IT and Technology,Mumbai,Maharashtra,India,237596,man-749676
+MA-GE-96423,Management,Mumbai,Maharashtra,India,330771,man-944577
+IT-SY-93941,IT and Technology,Indore,Madhya Pradesh,India,155713,man-862427
+IT-SY-66891,IT and Technology,Chandigarh,Chandigarh,India,384193,man-194033
+IT-IT-46996,IT and Technology,Bengaluru,Karnataka,India,440533,man-485088
+IT-DA-34527,IT and Technology,Coimbatore,Tamil Nadu,India,450087,man-651520
+IT-IT-77901,IT and Technology,Mumbai,Maharashtra,India,256515,man-204218
+IT-SO-38958,IT and Technology,Coimbatore,Tamil Nadu,India,106287,man-279380
+IT-IT-88006,IT and Technology,Coimbatore,Tamil Nadu,India,384887,man-340636
+MA-IT-85559,Management,Kochi,Kerala,India,267201,man-791931
+IT-FR-54898,IT and Technology,Vadodara,Gujarat,India,195769,man-704922
+MA-GE-84476,Management,Lucknow,Uttar Pradesh,India,370218,man-579788
+IT-SY-47409,IT and Technology,Chennai,Tamil Nadu,India,136258,man-710544
+IT-DE-99065,IT and Technology,Coimbatore,Tamil Nadu,India,410006,man-639552
+IT-SO-85735,IT and Technology,Bengaluru,Karnataka,India,409776,man-639899
+MA-IT-92358,Management,Bhopal,Madhya Pradesh,India,333454,man-889075
+MA-MA-31098,Management,Kolkata,West Bengal,India,246640,man-442563
+IT-SY-55803,IT and Technology,Noida,Uttar Pradesh,India,471138,man-690938
+MA-IT-30923,Management,Nagpur,Maharashtra,India,492489,man-813354
+MA-OP-92366,Management,Gurgaon,Haryana,India,318552,man-497029
+IT-NE-57828,IT and Technology,Bengaluru,Karnataka,India,388171,man-122780
+IT-SO-95344,IT and Technology,Pune,Maharashtra,India,360914,man-952486
+IT-IT-49234,IT and Technology,Kochi,Kerala,India,238666,man-766089
+MA-HU-13810,Management,Mumbai,Maharashtra,India,373243,man-274245
+IT-DA-47281,IT and Technology,Chandigarh,Chandigarh,India,432149,man-335672
+MA-SA-29358,Management,Delhi,Delhi,India,447199,man-485734
+IT-CY-28820,IT and Technology,Jaipur,Rajasthan,India,188047,man-605599
+MA-IT-65289,Management,Bhopal,Madhya Pradesh,India,476931,man-298517
+IT-CL-52440,IT and Technology,Chennai,Tamil Nadu,India,239872,man-217717
+IT-IT-83464,IT and Technology,Coimbatore,Tamil Nadu,India,354290,man-592723
+IT-FR-49154,IT and Technology,Visakhapatnam,Andhra Pradesh,India,116174,man-535946
+IT-DA-52214,IT and Technology,Ahmedabad,Gujarat,India,383578,man-832432
+IT-DA-35992,IT and Technology,Kolkata,West Bengal,India,448917,man-924386
+IT-FR-20757,IT and Technology,Indore,Madhya Pradesh,India,281248,man-103642
+IT-NE-73060,IT and Technology,Hyderabad,Telangana,India,421349,man-473147
+MA-PR-66641,Management,Pune,Maharashtra,India,192154,man-735736
+MA-MA-38625,Management,Nagpur,Maharashtra,India,255424,man-950437
+MA-HU-19121,Management,Hyderabad,Telangana,India,137675,man-646274
+MA-OP-48170,Management,Lucknow,Uttar Pradesh,India,371621,man-403404
+IT-FR-23625,IT and Technology,Lucknow,Uttar Pradesh,India,294237,man-579623
+MA-GE-56005,Management,Kochi,Kerala,India,227536,man-381095
+IT-DE-74836,IT and Technology,Nagpur,Maharashtra,India,265328,man-427570
+IT-DE-81275,IT and Technology,Lucknow,Uttar Pradesh,India,321736,man-859218
+MA-PR-21603,Management,Bengaluru,Karnataka,India,278434,man-594348
+IT-CL-64025,IT and Technology,Kolkata,West Bengal,India,407570,man-194500
+MA-OP-74447,Management,Chennai,Tamil Nadu,India,495834,man-584421
+MA-SA-35967,Management,Chennai,Tamil Nadu,India,208487,man-942002
+IT-DE-99541,IT and Technology,Pune,Maharashtra,India,345561,man-890820
+MA-CU-71478,Management,Noida,Uttar Pradesh,India,358044,man-234288
+IT-DA-58606,IT and Technology,Vadodara,Gujarat,India,102728,man-188587
+IT-SY-97483,IT and Technology,Gurgaon,Haryana,India,100809,man-294878
+MA-SA-35906,Management,Mumbai,Maharashtra,India,447689,man-728911
+MA-SA-67055,Management,Coimbatore,Tamil Nadu,India,411396,man-564079
+IT-DA-70306,IT and Technology,Kochi,Kerala,India,104335,man-559470
+IT-DA-74724,IT and Technology,Noida,Uttar Pradesh,India,462020,man-846702
+MA-IT-64646,Management,Hyderabad,Telangana,India,442822,man-844962
+IT-CL-34501,IT and Technology,Chennai,Tamil Nadu,India,457387,man-731556
+IT-CL-49836,IT and Technology,Bhopal,Madhya Pradesh,India,272185,man-106504
+MA-FI-38950,Management,Coimbatore,Tamil Nadu,India,285829,man-679050
+MA-IT-66120,Management,Chennai,Tamil Nadu,India,411038,man-258807
+MA-OP-90836,Management,Kochi,Kerala,India,431228,man-603402
+IT-SY-25371,IT and Technology,Visakhapatnam,Andhra Pradesh,India,315413,man-656971
+IT-DA-97791,IT and Technology,Mumbai,Maharashtra,India,202212,man-814742
+IT-SY-35736,IT and Technology,Noida,Uttar Pradesh,India,354243,man-947805
+MA-PR-87160,Management,Visakhapatnam,Andhra Pradesh,India,252607,man-191852
+MA-HU-91139,Management,Bengaluru,Karnataka,India,152426,man-435131
+MA-MA-95825,Management,Nagpur,Maharashtra,India,198290,man-589732
+MA-SA-93297,Management,Nagpur,Maharashtra,India,350188,man-830215
+IT-FR-46984,IT and Technology,Hyderabad,Telangana,India,267725,man-359344
+MA-CU-51264,Management,Noida,Uttar Pradesh,India,368244,man-703828
+MA-MA-17197,Management,Pune,Maharashtra,India,389538,man-430591
+IT-SY-51155,IT and Technology,Lucknow,Uttar Pradesh,India,390120,man-720857
+IT-FR-57095,IT and Technology,Vadodara,Gujarat,India,273602,man-891259
+MA-MA-49470,Management,Hyderabad,Telangana,India,489996,man-901216
+IT-FR-26333,IT and Technology,Noida,Uttar Pradesh,India,317351,man-782057
+IT-CY-30757,IT and Technology,Jaipur,Rajasthan,India,231824,man-126562
+IT-DE-12027,IT and Technology,Jaipur,Rajasthan,India,285937,man-818899
+MA-CU-91773,Management,Vadodara,Gujarat,India,319007,man-607003
+MA-FI-13746,Management,Bhopal,Madhya Pradesh,India,310326,man-919876
+MA-PR-32066,Management,Bhopal,Madhya Pradesh,India,321996,man-295828
+IT-DE-36016,IT and Technology,Delhi,Delhi,India,433126,man-646665
+MA-OP-39625,Management,Kolkata,West Bengal,India,297069,man-205870
+MA-PR-72913,Management,Delhi,Delhi,India,251978,man-948652
+IT-SO-51960,IT and Technology,Coimbatore,Tamil Nadu,India,291452,man-343626
+MA-CU-57913,Management,Chennai,Tamil Nadu,India,118494,man-164549
+MA-CU-27229,Management,Ahmedabad,Gujarat,India,223633,man-111431
+IT-IT-71379,IT and Technology,Chennai,Tamil Nadu,India,275618,man-422117
+MA-PR-68669,Management,Pune,Maharashtra,India,114195,man-942974
+IT-DA-20997,IT and Technology,Kolkata,West Bengal,India,390688,man-258477
+IT-DA-14424,IT and Technology,Indore,Madhya Pradesh,India,105328,man-725728
+MA-PR-98854,Management,Hyderabad,Telangana,India,311589,man-392602
+IT-DE-16016,IT and Technology,Gurgaon,Haryana,India,202883,man-930027
+IT-DE-11515,IT and Technology,Chennai,Tamil Nadu,India,350116,man-557365
+MA-OP-28916,Management,Delhi,Delhi,India,166740,man-742152
+IT-DE-18817,IT and Technology,Vadodara,Gujarat,India,297064,man-581209
+MA-PR-28959,Management,Nagpur,Maharashtra,India,151151,man-134888
+MA-GE-76454,Management,Jaipur,Rajasthan,India,112484,man-423594
+IT-IT-52379,IT and Technology,Lucknow,Uttar Pradesh,India,480584,man-455721
+MA-FI-18551,Management,Kochi,Kerala,India,351297,man-444132
+MA-MA-25411,Management,Nagpur,Maharashtra,India,324955,man-197132
+MA-PR-66395,Management,Kochi,Kerala,India,472094,man-130751
+MA-SA-61817,Management,Coimbatore,Tamil Nadu,India,370265,man-448272
+IT-NE-44416,IT and Technology,Hyderabad,Telangana,India,249962,man-801301
+IT-DA-44954,IT and Technology,Ahmedabad,Gujarat,India,442487,man-740407
+IT-DA-37573,IT and Technology,Lucknow,Uttar Pradesh,India,289039,man-991309
+MA-SA-22796,Management,Bhopal,Madhya Pradesh,India,397585,man-526267
+MA-CU-30796,Management,Hyderabad,Telangana,India,210751,man-779217
+MA-OP-86091,Management,Noida,Uttar Pradesh,India,347226,man-264305
+MA-CU-87526,Management,Gurgaon,Haryana,India,458820,man-809818
+IT-CL-32502,IT and Technology,Indore,Madhya Pradesh,India,136825,man-851250
+IT-IT-84453,IT and Technology,Chandigarh,Chandigarh,India,450319,man-957016
+IT-DA-76889,IT and Technology,Chandigarh,Chandigarh,India,261739,man-222286
+MA-HU-37245,Management,Nagpur,Maharashtra,India,463271,man-613981
+MA-GE-49488,Management,Vadodara,Gujarat,India,363796,man-946388
+MA-PR-25315,Management,Kolkata,West Bengal,India,480336,man-651460
+MA-HU-15297,Management,Kolkata,West Bengal,India,436845,man-524876
+IT-DE-63054,IT and Technology,Chennai,Tamil Nadu,India,498056,man-798004
+MA-HU-40209,Management,Delhi,Delhi,India,105704,man-903619
+MA-HU-67336,Management,Bengaluru,Karnataka,India,473576,man-482849
+MA-MA-42956,Management,Vadodara,Gujarat,India,338676,man-498007
+MA-SA-49178,Management,Vadodara,Gujarat,India,293007,man-809060
+MA-PR-54681,Management,Chennai,Tamil Nadu,India,374960,man-977574
+MA-PR-50000,Management,Nagpur,Maharashtra,India,149390,man-674248
+MA-HU-14993,Management,Ahmedabad,Gujarat,India,298276,man-449451
+MA-CU-73875,Management,Chennai,Tamil Nadu,India,112587,man-661888
+MA-IT-74063,Management,Bengaluru,Karnataka,India,461156,man-338346
+IT-CL-53494,IT and Technology,Gurgaon,Haryana,India,186462,man-957197
+MA-PR-56540,Management,Kolkata,West Bengal,India,112132,man-827731
+MA-FI-85630,Management,Jaipur,Rajasthan,India,266305,man-845383
+MA-CU-77566,Management,Delhi,Delhi,India,155060,man-738728
+MA-GE-92516,Management,Kolkata,West Bengal,India,427890,man-344156
+IT-SY-21438,IT and Technology,Chandigarh,Chandigarh,India,200856,man-947749
+MA-SA-86582,Management,Chennai,Tamil Nadu,India,472466,man-106784
+IT-DA-89837,IT and Technology,Jaipur,Rajasthan,India,305114,man-580020
+MA-OP-83778,Management,Indore,Madhya Pradesh,India,417523,man-840003
+IT-DE-20889,IT and Technology,Ahmedabad,Gujarat,India,414465,man-984694
+MA-CU-13694,Management,Jaipur,Rajasthan,India,313526,man-538066
+MA-SA-27863,Management,Bhopal,Madhya Pradesh,India,291242,man-510611
+MA-PR-16930,Management,Vadodara,Gujarat,India,193298,man-370527
+IT-DE-69210,IT and Technology,Indore,Madhya Pradesh,India,183441,man-672582
+IT-DE-24974,IT and Technology,Delhi,Delhi,India,256852,man-350523
+MA-MA-12843,Management,Noida,Uttar Pradesh,India,278469,man-620516
+IT-CL-25884,IT and Technology,Lucknow,Uttar Pradesh,India,214857,man-408784
+IT-SY-83601,IT and Technology,Kolkata,West Bengal,India,258835,man-605700
+IT-CL-36765,IT and Technology,Ahmedabad,Gujarat,India,421613,man-641050
+MA-SA-38685,Management,Kochi,Kerala,India,128930,man-113507
+MA-FI-23790,Management,Visakhapatnam,Andhra Pradesh,India,390968,man-189601
+MA-MA-31291,Management,Chandigarh,Chandigarh,India,440351,man-399349
+IT-SY-30023,IT and Technology,Bhopal,Madhya Pradesh,India,462850,man-504604
+MA-IT-55665,Management,Bhopal,Madhya Pradesh,India,334720,man-576905
+MA-HU-38530,Management,Noida,Uttar Pradesh,India,325642,man-896110
+MA-FI-85418,Management,Noida,Uttar Pradesh,India,286691,man-901392
+MA-SA-59458,Management,Ahmedabad,Gujarat,India,436708,man-271343
+MA-GE-10653,Management,Indore,Madhya Pradesh,India,460020,man-252778
+MA-FI-44975,Management,Mumbai,Maharashtra,India,306305,man-691406
+IT-IT-28327,IT and Technology,Indore,Madhya Pradesh,India,212129,man-920184
+IT-DA-19461,IT and Technology,Visakhapatnam,Andhra Pradesh,India,190460,man-866715
+MA-IT-72987,Management,Lucknow,Uttar Pradesh,India,392852,man-219821
+MA-HU-33439,Management,Visakhapatnam,Andhra Pradesh,India,183635,man-180601
+IT-FR-42442,IT and Technology,Delhi,Delhi,India,284424,man-952430
+MA-PR-74341,Management,Indore,Madhya Pradesh,India,214227,man-742523
+IT-IT-33527,IT and Technology,Chennai,Tamil Nadu,India,401503,man-319858
+IT-FR-51016,IT and Technology,Chandigarh,Chandigarh,India,481105,man-179951
+MA-IT-80718,Management,Ahmedabad,Gujarat,India,226598,man-414899
+IT-IT-82047,IT and Technology,Pune,Maharashtra,India,110810,man-163254
+MA-MA-15803,Management,Delhi,Delhi,India,457612,man-873194
+IT-FR-34554,IT and Technology,Visakhapatnam,Andhra Pradesh,India,338186,man-771213
+IT-DA-18368,IT and Technology,Visakhapatnam,Andhra Pradesh,India,149887,man-911418
+IT-SY-95163,IT and Technology,Ahmedabad,Gujarat,India,333072,man-482726
+IT-NE-72760,IT and Technology,Delhi,Delhi,India,351733,man-530919
+MA-CU-72934,Management,Pune,Maharashtra,India,359597,man-623455
+MA-OP-17399,Management,Nagpur,Maharashtra,India,199969,man-940041
+IT-DE-71718,IT and Technology,Mumbai,Maharashtra,India,284041,man-855785
+MA-SA-87613,Management,Mumbai,Maharashtra,India,157853,man-816349
+MA-FI-58418,Management,Chandigarh,Chandigarh,India,251090,man-130427
+MA-OP-44886,Management,Kolkata,West Bengal,India,201790,man-919491
+MA-GE-81119,Management,Visakhapatnam,Andhra Pradesh,India,245513,man-754378
+MA-PR-68216,Management,Kolkata,West Bengal,India,399145,man-876348
+MA-PR-18690,Management,Jaipur,Rajasthan,India,142032,man-867152
+IT-DA-72932,IT and Technology,Pune,Maharashtra,India,384847,man-706451
+MA-IT-61604,Management,Ahmedabad,Gujarat,India,453867,man-609650
+MA-IT-42323,Management,Bengaluru,Karnataka,India,463077,man-502223
+IT-NE-31953,IT and Technology,Mumbai,Maharashtra,India,143979,man-717687
+IT-SY-78351,IT and Technology,Hyderabad,Telangana,India,322124,man-921654
+MA-CU-74173,Management,Pune,Maharashtra,India,476962,man-931259
+MA-HU-90205,Management,Gurgaon,Haryana,India,214820,man-119383
+IT-SY-95288,IT and Technology,Kolkata,West Bengal,India,268214,man-967347
+IT-DA-62858,IT and Technology,Vadodara,Gujarat,India,473630,man-197232
+IT-NE-43195,IT and Technology,Bengaluru,Karnataka,India,462386,man-300765
+MA-SA-63115,Management,Bhopal,Madhya Pradesh,India,273888,man-945386
+IT-FR-77238,IT and Technology,Gurgaon,Haryana,India,101101,man-398259
+IT-DE-44870,IT and Technology,Delhi,Delhi,India,100557,man-123983
+MA-PR-66423,Management,Chandigarh,Chandigarh,India,223471,man-349533
+MA-OP-74957,Management,Indore,Madhya Pradesh,India,362365,man-311701
+IT-SO-20211,IT and Technology,Noida,Uttar Pradesh,India,318413,man-964940
+IT-NE-79377,IT and Technology,Bengaluru,Karnataka,India,252793,man-234835
+MA-SA-23240,Management,Jaipur,Rajasthan,India,479134,man-870921
+IT-CL-58843,IT and Technology,Hyderabad,Telangana,India,489827,man-271534
+IT-DA-17268,IT and Technology,Mumbai,Maharashtra,India,108068,man-443203
+MA-HU-20194,Management,Pune,Maharashtra,India,482309,man-288892
+IT-DA-90679,IT and Technology,Nagpur,Maharashtra,India,482072,man-106925
+IT-NE-81608,IT and Technology,Jaipur,Rajasthan,India,457565,man-243654
+MA-PR-15255,Management,Jaipur,Rajasthan,India,291392,man-322022
+IT-DA-27363,IT and Technology,Jaipur,Rajasthan,India,188832,man-788570
+MA-CU-53555,Management,Coimbatore,Tamil Nadu,India,329229,man-248652
+IT-CY-25215,IT and Technology,Visakhapatnam,Andhra Pradesh,India,249620,man-791894
+IT-CL-20742,IT and Technology,Nagpur,Maharashtra,India,498186,man-922036
+IT-CY-66938,IT and Technology,Chandigarh,Chandigarh,India,494729,man-444434
+MA-HU-61677,Management,Pune,Maharashtra,India,213341,man-504829
+IT-SO-65202,IT and Technology,Hyderabad,Telangana,India,371507,man-331636
+IT-SY-96913,IT and Technology,Indore,Madhya Pradesh,India,395731,man-206847
+MA-HU-99314,Management,Visakhapatnam,Andhra Pradesh,India,438242,man-837125
+IT-SY-71841,IT and Technology,Visakhapatnam,Andhra Pradesh,India,136582,man-344682
+MA-GE-26250,Management,Vadodara,Gujarat,India,230207,man-169236
